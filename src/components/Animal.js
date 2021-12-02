@@ -5,7 +5,7 @@ import Hemisphere from '../context/Hemisphere'
 export default ({ animal, color }) => {
     return (
         <Hemisphere.Consumer>
-        {(hemisphere) => {
+        {({ hemisphere }) => {
             return (
                 <section className='animal' style={{ background: color }}>
                     <header className='animal-header'>

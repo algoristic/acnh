@@ -1,9 +1,9 @@
 .panel {
     color: white;
-    border-radius: var(--panel-border-radius);
+    /*border-radius: var(--panel-border-radius);*/
     border-width: 0;
     border-style: solid;
-    margin: 1.5rem auto;
+    margin: 0 auto;
     max-width: 768px;
 }
 .panel .panel-header,

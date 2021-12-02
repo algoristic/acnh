@@ -2,22 +2,28 @@ import { Component } from 'react'
 
 import Animal from './Animal'
 
+import PersistentStorage from '../service/PersistentStorage'
+
 import './Panel.css'
 
 export default class Panel extends Component {
     constructor(props) {
         super(props);
+        let { id } = props;
+        this.storage = new PersistentStorage();
         this.state = {
-            collapsed: true
+            collapsed: this.storage.getPanel(id)
         };
 
         this.toggleCollapse = this.toggleCollapse.bind(this);
     }
 
     toggleCollapse() {
+        let newState = !this.state.collapsed;
         this.setState({
-            collapsed: !this.state.collapsed
+            collapsed: newState
         });
+        this.storage.setPanel(this.props.id, newState);
     }
 
     render() {
