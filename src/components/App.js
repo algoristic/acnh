@@ -20,10 +20,12 @@ export default class App extends Component {
     }
 
     refresh() {
+        const dateTimeService = new DateTimeService();
         this.setState({
-            dateTimeService: new DateTimeService()
+            dateTimeService: dateTimeService
         });
-        alert('Sachen aktualisiert');
+        setTimeout(this.refresh, dateTimeService.getMillisRemaining());
+        console.log('Refreshed all domains');
     }
 
     render() {
