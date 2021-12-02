@@ -53,7 +53,7 @@ export default class App extends Component {
     render() {
         const { hemisphere, animalService, dateTimeService } = this.state;
         return (
-            <div className="app">
+            <div className="app bootstrap-wrapper">
                 <Hemisphere.Provider value={{ hemisphere: hemisphere, change: this.setHemisphere }}>
                     <SettingsBar />
                     <InsectsPanel animals={animalService}

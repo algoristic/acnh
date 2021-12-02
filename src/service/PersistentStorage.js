@@ -17,12 +17,10 @@ class PersistentStorage {
             state = true;
             this.setPanel(key, state);
         }
-        console.log(`get(panel=${key}, state=${state})`);
         return JSON.parse(state);
     }
 
     setPanel(key, value) {
-        console.log(`set(panel=${key}, state=${value})`);
         this.set(('panel_' + key), value);
     }
 

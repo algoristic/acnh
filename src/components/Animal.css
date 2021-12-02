@@ -2,12 +2,6 @@
     margin-bottom: 1rem;
     border-radius: var(--panel-border-radius);
 }
-.animal:last-child {
-    margin-bottom: .25rem;
-}
-.animal:first-child {
-    margin-top: .25rem;
-}
 .animal .animal-header,
 .animal .animal-body {
     padding: .25rem .5rem;
@@ -15,11 +9,7 @@
 .animal .animal-header {
     border-top-left-radius: var(--panel-border-radius);
     border-top-right-radius: var(--panel-border-radius);
-}
-.animal .animal-body {
-    background: rgba(255, 255, 255, .3);
-    border-bottom-left-radius: var(--panel-border-radius);
-    border-bottom-right-radius: var(--panel-border-radius);
+    font-size: .95rem;
 }
 .animal .animal-header .animal-name {
     margin-right: .5rem;
@@ -29,11 +19,27 @@
     font-style: italic;
     opacity: .5;
 }
-.animal .animal-body .animal-active-wrapper,
-.animal .animal-body .animal-location-wrapper {
-    font-style: italic;
+.animal .animal-body {
+    background: rgba(255, 255, 255, .3);
+    border-bottom-left-radius: var(--panel-border-radius);
+    border-bottom-right-radius: var(--panel-border-radius);
+    font-size: .85rem;
 }
-.animal .animal-body .animal-active,
-.animal .animal-body .animal-location {
-    font-style: normal;
+.animal .animal-body table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.animal .animal-body tr:first-child {
+    border-top: none;
+}
+.animal .animal-body tr {
+    border-top: 1px solid rgba(255, 255, 255, .25);
+}
+.animal .animal-body tr td {
+    font-weight: lighter;
+}
+.animal .animal-body tr td:first-child {
+    font-weight: bold;
+    font-style: italic;
+    width: 65px;
 }

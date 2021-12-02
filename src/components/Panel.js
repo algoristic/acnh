@@ -31,7 +31,7 @@ export default class Panel extends Component {
         const { colors, icon, text, animals } = this.props;
         const { collapsed } = this.state;
         return (
-            <article className={'panel' + (collapsed ? ' collapsed' : '')}
+            <article className={'container-fluid panel' + (collapsed ? ' collapsed' : '')}
                 style={{ background: colors.header, borderColor: colors.header, color: colors.text }}>
                 <header className='panel-header' style={{ background: colors.header }} onClick={this.toggleCollapse}>
                     <span className='header-icon'>

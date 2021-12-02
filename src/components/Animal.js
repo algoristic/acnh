@@ -7,23 +7,32 @@ export default ({ animal, color }) => {
         <Hemisphere.Consumer>
         {({ hemisphere }) => {
             return (
-                <section className='animal col-12 col-md-6' style={{ background: color }}>
-                    <header className='animal-header'>
-                        <span className='animal-name'>{animal.name}</span>
-                        <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>
-                    </header>
-                    <main className='animal-body'>
-                        <div className='animal-active-wrapper'>
-                            Aktiv: <span className='animal-active'>{animal.activeLiteral}</span>
-                        </div>
-                        <div className='animal-location-wrapper'>
-                            Fundort: <span className='animal-location'>{animal.location}</span>
-                        </div>
-                        <div className='animal-seasons-wrapper'>
-                            <span className=''>{animal[hemisphere]}</span>
-                        </div>
-                    </main>
-                </section>
+                <div className='animal-wrapper col-12 col-md-6 col-lg-4'>
+                    <section className='animal' style={{ background: color }}>
+                        <header className='animal-header'>
+                            <span className='animal-name'>{animal.name}</span>
+                            <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>
+                        </header>
+                        <main className='animal-body'>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td>Zeit:</td>
+                                        <td>{ animal.activeLiteral }</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fundort:</td>
+                                        <td>{ animal.location }</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Aktiv:</td>
+                                        <td>{ animal[hemisphere] }</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </main>
+                    </section>
+                </div>
             );
         }}
         </Hemisphere.Consumer>
