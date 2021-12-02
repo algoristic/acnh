@@ -1,4 +1,4 @@
-export default {
+{
   "northernHemisphere": {
     "11": {
       "meerestiere": [
@@ -2028,37 +2028,39 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 5000
     },
     "goldforelle": {
       "name": "Goldforelle",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Flussquelle und Wasserfall",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 3800
     },
     "falterfisch": {
@@ -2090,6 +2092,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "ohrenqualle": {
@@ -2121,6 +2124,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "turbanschnecke": {
@@ -2152,11 +2156,17 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "langust": {
       "name": "Langust",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2173,16 +2183,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 5000
     },
     "troides-brookiana": {
@@ -2214,37 +2220,39 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 2500
     },
     "vampirtintenfisch": {
       "name": "Vampirtintenfisch",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 10000
     },
     "seegurke": {
@@ -2276,11 +2284,17 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "gluehwuermchen": {
       "name": "Glühwürmchen",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2295,18 +2309,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Luft",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 0
     },
     "koenigslachs": {
@@ -2338,11 +2348,17 @@ export default {
         true
       ],
       "location": "Flussmündung",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1800
     },
     "skorpion": {
       "name": "Skorpion",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2357,23 +2373,28 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Boden",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 8000
     },
     "elefantenkaefer": {
       "name": "Elefantenkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2382,24 +2403,16 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 8000
     },
     "ranchu": {
@@ -2431,6 +2444,7 @@ export default {
         false
       ],
       "location": "Teich",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 4500
     },
     "kaulquappe": {
@@ -2462,6 +2476,7 @@ export default {
         true
       ],
       "location": "Teich",
+      "activeLiteral": "Den ganzen Tag",
       "value": 100
     },
     "rote-koenigskrabbe": {
@@ -2493,6 +2508,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 8000
     },
     "hirschkaefer": {
@@ -2524,6 +2540,7 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "riesenassel": {
@@ -2555,6 +2572,7 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 12000
     },
     "paletten-doktorfisch": {
@@ -2586,6 +2604,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "schneekrabbe": {
@@ -2617,6 +2636,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 6000
     },
     "goldmakrele": {
@@ -2648,6 +2668,7 @@ export default {
         true
       ],
       "location": "Steg",
+      "activeLiteral": "Den ganzen Tag",
       "value": 6000
     },
     "kliesche": {
@@ -2679,11 +2700,21 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 300
     },
     "singgrille": {
       "name": "Singgrille",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2692,60 +2723,58 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Boden",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 430
     },
     "anglerfisch": {
       "name": "Anglerfisch",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 2000
     },
     "schnappschildkroete": {
       "name": "Schnappschildkröte",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2762,52 +2791,58 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 5000
     },
     "wollhandkrabbe": {
       "name": "Wollhandkrabbe",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 2000
     },
     "giraffenhirschkaefer": {
       "name": "Giraffenhirschkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2816,55 +2851,48 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 12000
     },
     "huchen": {
       "name": "Huchen",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Flussquelle und Wasserfall",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 15000
     },
     "sonnenbarsch": {
@@ -2896,6 +2924,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 180
     },
     "schlangenkopf": {
@@ -2927,37 +2956,39 @@ export default {
         false
       ],
       "location": "Teich",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 5500
     },
     "knochenhecht": {
       "name": "Knochenhecht",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Teich",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 6000
     },
     "kuruma-garnele": {
@@ -2989,6 +3020,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 3000
     },
     "babylon-seeschnecke": {
@@ -3020,37 +3052,39 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "perlboot": {
       "name": "Perlboot",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 1800
     },
     "nasenmuraene": {
@@ -3082,6 +3116,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "orichideenmantis": {
@@ -3113,37 +3148,39 @@ export default {
         false
       ],
       "location": "Blumen",
+      "activeLiteral": "8 - 16 Uhr",
       "value": 430
     },
     "griffelseeigel": {
       "name": "Griffelseeigel",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 2000
     },
     "regenbogenfisch": {
@@ -3175,6 +3212,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 800
     },
     "riesenkrabbe": {
@@ -3206,6 +3244,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 10000
     },
     "seeanemone": {
@@ -3237,6 +3276,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "sacktraeger": {
@@ -3268,6 +3308,7 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "kammmuschel": {
@@ -3299,11 +3340,17 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "muecke": {
       "name": "Mücke",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3316,20 +3363,16 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Luft",
+      "activeLiteral": "17 - 4 Uhr",
       "value": 130
     },
     "hyalessa-zikade": {
@@ -3361,6 +3404,7 @@ export default {
         false
       ],
       "location": "Bäume",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 300
     },
     "japan-schillerfalter": {
@@ -3392,6 +3436,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 9 Uhr",
       "value": 300
     },
     "stabschrecke": {
@@ -3423,6 +3468,7 @@ export default {
         false
       ],
       "location": "Bäume",
+      "activeLiteral": "4 - 8 Uhr und 17 - 19 Uhr",
       "value": 600
     },
     "zitronenfalter": {
@@ -3454,6 +3500,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 19 Uhr",
       "value": 160
     },
     "kohlweissling": {
@@ -3485,37 +3532,39 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 19 Uhr",
       "value": 160
     },
     "hai": {
       "name": "Hai",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 15000
     },
     "grosse-riesenmuschel": {
@@ -3547,6 +3596,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 15000
     },
     "frosch": {
@@ -3578,6 +3628,7 @@ export default {
         true
       ],
       "location": "Teich",
+      "activeLiteral": "Den ganzen Tag",
       "value": 120
     },
     "seeigel": {
@@ -3609,6 +3660,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1700
     },
     "kampffisch": {
@@ -3640,6 +3692,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 2500
     },
     "japan-rosenkaefer": {
@@ -3671,16 +3724,17 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 200
     },
     "piranha": {
       "name": "Piranha",
       "active": [
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3696,17 +3750,23 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr und 20 - 4 Uhr",
       "value": 2500
     },
     "atlasspinner": {
       "name": "Atlasspinner",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3721,18 +3781,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 3000
     },
     "wespe": {
@@ -3764,6 +3820,7 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2500
     },
     "regenbogenfalter": {
@@ -3795,6 +3852,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 16 Uhr",
       "value": 2500
     },
     "bitterling": {
@@ -3826,6 +3884,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 900
     },
     "honigbiene": {
@@ -3857,6 +3916,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 200
     },
     "blattschrecke": {
@@ -3888,6 +3948,7 @@ export default {
         true
       ],
       "location": "Tarnung als Möbelstück auf dem Boden",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "karpfen": {
@@ -3919,6 +3980,7 @@ export default {
         true
       ],
       "location": "Teich",
+      "activeLiteral": "Den ganzen Tag",
       "value": 300
     },
     "hummer": {
@@ -3950,6 +4012,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 4500
     },
     "monarchfalter": {
@@ -3981,37 +4044,39 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 140
     },
     "flusskrebs": {
       "name": "Flusskrebs",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Teich",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 200
     },
     "prachtkaefer": {
@@ -4043,37 +4108,39 @@ export default {
         true
       ],
       "location": "Baumstumpf",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2400
     },
     "weichschildkroete": {
       "name": "Weichschildkröte",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 3750
     },
     "schwalbenschwanz": {
@@ -4105,6 +4172,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 19 Uhr",
       "value": 240
     },
     "grashuepfer": {
@@ -4136,68 +4204,71 @@ export default {
         false
       ],
       "location": "Boden",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 160
     },
     "koi-karpfen": {
       "name": "Koi-Karpfen",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Teich",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 4000
     },
     "saegehai": {
       "name": "Sägehai",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 12000
     },
     "fliege": {
@@ -4229,6 +4300,7 @@ export default {
         true
       ],
       "location": "Müll",
+      "activeLiteral": "Den ganzen Tag",
       "value": 60
     },
     "schiffshalter": {
@@ -4260,6 +4332,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1500
     },
     "geigenkaefer": {
@@ -4291,6 +4364,7 @@ export default {
         true
       ],
       "location": "Baumstumpf",
+      "activeLiteral": "Den ganzen Tag",
       "value": 450
     },
     "walhai": {
@@ -4322,6 +4396,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 13000
     },
     "perlmuschel": {
@@ -4353,37 +4428,39 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2800
     },
     "seeschwein": {
       "name": "Seeschwein",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 10000
     },
     "sardelle": {
@@ -4415,6 +4492,7 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 200
     },
     "vogelfalter": {
@@ -4446,6 +4524,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 16 Uhr",
       "value": 4000
     },
     "tilapia": {
@@ -4477,11 +4556,21 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 800
     },
     "atlaskaefer": {
       "name": "Atlaskäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4490,24 +4579,16 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 8000
     },
     "lachs": {
@@ -4539,6 +4620,7 @@ export default {
         true
       ],
       "location": "Flussmündung",
+      "activeLiteral": "Den ganzen Tag",
       "value": 700
     },
     "seebarsch": {
@@ -4570,6 +4652,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 400
     },
     "seestern": {
@@ -4601,6 +4684,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "gold-mistkaefer": {
@@ -4632,6 +4716,7 @@ export default {
         true
       ],
       "location": "Boden",
+      "activeLiteral": "Den ganzen Tag",
       "value": 3000
     },
     "agrias-falter": {
@@ -4663,6 +4748,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 3000
     },
     "goldfisch ": {
@@ -4694,11 +4780,21 @@ export default {
         true
       ],
       "location": "Teich",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1300
     },
     "himmelsfalter": {
       "name": "Himmelsfalter",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4707,29 +4803,30 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Luft",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 4000
     },
     "pracht-hirschkaefer": {
       "name": "Pracht-Hirschkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4740,22 +4837,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "19 - 8 Uhr",
       "value": 6000
     },
     "regenschirm-oktopus": {
@@ -4787,11 +4876,20 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 6000
     },
     "riesenwanze": {
       "name": "Riesenwanze",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4803,21 +4901,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Wasser",
+      "activeLiteral": "19 - 7 Uhr",
       "value": 2000
     },
     "gazami-krabbe": {
@@ -4849,37 +4940,39 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2200
     },
     "hasel": {
       "name": "Hasel",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 240
     },
     "guppy": {
@@ -4911,11 +5004,17 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 1300
     },
     "leuchtkaefer": {
       "name": "Leuchtkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4930,18 +5029,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Luft",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 300
     },
     "bachschmerle": {
@@ -4973,6 +5068,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 400
     },
     "auster": {
@@ -5004,6 +5100,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1100
     },
     "floh": {
@@ -5035,6 +5132,7 @@ export default {
         true
       ],
       "location": "Auf Nachbarn",
+      "activeLiteral": "Den ganzen Tag",
       "value": 70
     },
     "weisse-baumnymphe": {
@@ -5066,11 +5164,17 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 1000
     },
     "motte": {
       "name": "Motte",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -5085,18 +5189,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Nähe von Licht",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 130
     },
     "kaiserschnapper": {
@@ -5128,6 +5228,7 @@ export default {
         true
       ],
       "location": "Meer ",
+      "activeLiteral": "Den ganzen Tag",
       "value": 3000
     },
     "quastenflosser": {
@@ -5159,6 +5260,7 @@ export default {
         true
       ],
       "location": "Meer bei Regen",
+      "activeLiteral": "Den ganzen Tag",
       "value": 15000
     },
     "ayu": {
@@ -5190,6 +5292,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 900
     },
     "lachssalmler": {
@@ -5221,6 +5324,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 15000
     },
     "abendzikade": {
@@ -5252,37 +5356,39 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 8 Uhr und 16 - 19 Uhr",
       "value": 550
     },
     "saibling ": {
       "name": "Saibling ",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Flussquelle und Wasserfall",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 3800
     },
     "nasenschrecke": {
@@ -5314,42 +5420,49 @@ export default {
         false
       ],
       "location": "Boden",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 200
     },
     "arowana": {
       "name": "Arowana",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 10000
     },
     "glaskopffisch": {
       "name": "Glaskopffisch",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -5366,16 +5479,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 15000
     },
     "flussbarsch": {
@@ -5407,37 +5516,39 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 300
     },
     "meerstrudelwurm": {
       "name": "Meerstrudelwurm",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 700
     },
     "blauruesselkaefer": {
@@ -5469,11 +5580,21 @@ export default {
         true
       ],
       "location": "Baumstumpf",
+      "activeLiteral": "Den ganzen Tag",
       "value": 800
     },
     "allotups-rosenbergi": {
       "name": "Allotups rosenbergi",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -5482,55 +5603,48 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 12000
     },
     "masulachs": {
       "name": "Masulachs",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Flussquelle und Wasserfall",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 1000
     },
     "seepferdchen": {
@@ -5562,6 +5676,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1100
     },
     "mistkaefer": {
@@ -5593,11 +5708,21 @@ export default {
         true
       ],
       "location": "Boden",
+      "activeLiteral": "Den ganzen Tag",
       "value": 300
     },
     "goldskarabaeus": {
       "name": "Goldskarabäus",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -5612,23 +5737,24 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "23 - 8 Uhr",
       "value": 10000
     },
     "gesichtswanze": {
       "name": "Gesichtswanze",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -5639,22 +5765,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Blumen",
+      "activeLiteral": "19 - 8 Uhr",
       "value": 1000
     },
     "kriechsprossalge": {
@@ -5686,6 +5804,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 900
     },
     "oktopus": {
@@ -5717,6 +5836,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1200
     },
     "rochen": {
@@ -5748,6 +5868,7 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 3000
     },
     "katzenwels": {
@@ -5779,6 +5900,7 @@ export default {
         false
       ],
       "location": "Teich",
+      "activeLiteral": "6 - 9 Uhr",
       "value": 800
     },
     "miesmuschel": {
@@ -5810,6 +5932,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1500
     },
     "riemenfisch": {
@@ -5841,6 +5964,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 9000
     },
     "schwimmkaefer": {
@@ -5872,37 +5996,39 @@ export default {
         false
       ],
       "location": "Wasser",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 800
     },
     "flussgrundel": {
       "name": "Flussgrundel",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 400
     },
     "pazifik-taschenkrebs": {
@@ -5934,6 +6060,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1900
     },
     "stint": {
@@ -5965,6 +6092,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 400
     },
     "makrele": {
@@ -5996,6 +6124,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 150
     },
     "wasserjungfer": {
@@ -6027,37 +6156,39 @@ export default {
         true
       ],
       "location": "Luft",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "arapaima": {
       "name": "Arapaima",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 10000
     },
     "stachelmakrele": {
@@ -6089,11 +6220,21 @@ export default {
         true
       ],
       "location": "Steg",
+      "activeLiteral": "Den ganzen Tag",
       "value": 4500
     },
     "einsiedlerkrebs": {
       "name": "Einsiedlerkrebs",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6104,27 +6245,28 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Strand",
+      "activeLiteral": "19 - 8 Uhr",
       "value": 1000
     },
     "cyclommantus": {
       "name": "Cyclommantus",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6135,22 +6277,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "19 - 8 Uhr",
       "value": 8000
     },
     "ritterfalter": {
@@ -6182,6 +6316,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 19 Uhr",
       "value": 2500
     },
     "wasserlaeufer": {
@@ -6213,11 +6348,17 @@ export default {
         false
       ],
       "location": "Wasser",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 130
     },
     "floesselhecht": {
       "name": "Flösselhecht",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6234,16 +6375,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 4000
     },
     "neonsalmer": {
@@ -6275,6 +6412,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 500
     },
     "flunder": {
@@ -6306,11 +6444,17 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 800
     },
     "pfeilschwanzkrebs": {
       "name": "Pfeilschwanzkrebs",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6327,16 +6471,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 2500
     },
     "hecht": {
@@ -6368,37 +6508,39 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1800
     },
     "seeohr": {
       "name": "Seeohr",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 2000
     },
     "roehrenaal": {
@@ -6430,11 +6572,21 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 1100
     },
     "grille": {
       "name": "Grille",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6443,29 +6595,30 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Boden",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 130
     },
     "goliathkaefer": {
       "name": "Goliathkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6474,24 +6627,16 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 8000
     },
     "wanderschrecke": {
@@ -6523,6 +6668,7 @@ export default {
         false
       ],
       "location": "Boden",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 600
     },
     "anemomenfisch": {
@@ -6554,6 +6700,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 650
     },
     "muraene": {
@@ -6585,6 +6732,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2000
     },
     "bergzikade": {
@@ -6616,6 +6764,7 @@ export default {
         false
       ],
       "location": "Bäume",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 400
     },
     "zikadenlarvenhaut": {
@@ -6647,6 +6796,7 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 10
     },
     "ameise": {
@@ -6678,6 +6828,7 @@ export default {
         true
       ],
       "location": "Verrottete Früchte",
+      "activeLiteral": "Den ganzen Tag",
       "value": 80
     },
     "riesenzikade": {
@@ -6709,6 +6860,7 @@ export default {
         false
       ],
       "location": "Bäume",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 500
     },
     "maulwurfsgrille": {
@@ -6740,6 +6892,7 @@ export default {
         true
       ],
       "location": "In der Erde",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "seepocke": {
@@ -6771,11 +6924,21 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "riesen-hirschkaefer": {
       "name": "Riesen-Hirschkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -6790,18 +6953,10 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "23 - 8 Uhr",
       "value": 10000
     },
     "saugbarbe": {
@@ -6833,6 +6988,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 1500
     },
     "wakame-alge": {
@@ -6864,6 +7020,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "heuschrecke": {
@@ -6895,6 +7052,7 @@ export default {
         false
       ],
       "location": "Boden",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 400
     },
     "teleskopauge": {
@@ -6926,6 +7084,7 @@ export default {
         false
       ],
       "location": "Teich",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 1300
     },
     "quelljungfer": {
@@ -6957,6 +7116,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 4500
     },
     "thunfisch": {
@@ -6988,6 +7148,7 @@ export default {
         true
       ],
       "location": "Steg",
+      "activeLiteral": "Den ganzen Tag",
       "value": 7000
     },
     "fichtenbock": {
@@ -7019,6 +7180,7 @@ export default {
         true
       ],
       "location": "Baumstumpf",
+      "activeLiteral": "Den ganzen Tag",
       "value": 350
     },
     "ligia-exotica": {
@@ -7050,6 +7212,7 @@ export default {
         true
       ],
       "location": "Strandfelsen",
+      "activeLiteral": "Den ganzen Tag",
       "value": 200
     },
     "sandlaufkaefer": {
@@ -7081,6 +7244,7 @@ export default {
         true
       ],
       "location": "Boden",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1500
     },
     "hundertfuesser": {
@@ -7112,42 +7276,49 @@ export default {
         true
       ],
       "location": "Steine",
+      "activeLiteral": "16 - 23 Uhr",
       "value": 300
     },
     "skalar": {
       "name": "Skalar",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Fluss",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 3000
     },
     "leuchtkalmar": {
       "name": "Leuchtkalmar",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -7164,16 +7335,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 1400
     },
     "mondfisch": {
@@ -7205,6 +7372,7 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 4000
     },
     "alpenbock": {
@@ -7236,6 +7404,7 @@ export default {
         true
       ],
       "location": "Baumstumpf",
+      "activeLiteral": "Den ganzen Tag",
       "value": 3000
     },
     "karausche": {
@@ -7267,6 +7436,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 160
     },
     "gottesanbeterin": {
@@ -7298,6 +7468,7 @@ export default {
         false
       ],
       "location": "Blumen",
+      "activeLiteral": "8 - 16 Uhr",
       "value": 430
     },
     "saegezahn-hirschkaefer": {
@@ -7329,6 +7500,7 @@ export default {
         true
       ],
       "location": "Bäume",
+      "activeLiteral": "Den ganzen Tag",
       "value": 2000
     },
     "igelfisch": {
@@ -7360,6 +7532,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 250
     },
     "stinkwanze": {
@@ -7391,11 +7564,17 @@ export default {
         true
       ],
       "location": "Blumen",
+      "activeLiteral": "Den ganzen Tag",
       "value": 120
     },
     "kugelfisch": {
       "name": "Kugelfisch",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -7412,16 +7591,12 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
       "value": 5000
     },
     "stoer": {
@@ -7453,11 +7628,21 @@ export default {
         true
       ],
       "location": "Flussmündung",
+      "activeLiteral": "Den ganzen Tag",
       "value": 10000
     },
     "herkuleskaefer": {
       "name": "Herkuleskäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -7466,24 +7651,16 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Palmen",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 12000
     },
     "braunzikade": {
@@ -7515,11 +7692,21 @@ export default {
         false
       ],
       "location": "Bäume",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 250
     },
     "spinne": {
       "name": "Spinne",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -7530,53 +7717,46 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "19 - 8 Uhr",
       "value": 600
     },
     "hammerhai": {
       "name": "Hammerhai",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 8000
     },
     "nacktkiemer": {
@@ -7608,6 +7788,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 600
     },
     "barsch": {
@@ -7639,6 +7820,7 @@ export default {
         true
       ],
       "location": "Fluss",
+      "activeLiteral": "Den ganzen Tag",
       "value": 400
     },
     "napoleanfisch": {
@@ -7670,6 +7852,7 @@ export default {
         false
       ],
       "location": "Meer",
+      "activeLiteral": "4 - 21 Uhr",
       "value": 10000
     },
     "kalmar": {
@@ -7701,6 +7884,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "kilifisch": {
@@ -7732,6 +7916,7 @@ export default {
         true
       ],
       "location": "Teich",
+      "activeLiteral": "Den ganzen Tag",
       "value": 300
     },
     "marienkaefer": {
@@ -7763,6 +7948,7 @@ export default {
         false
       ],
       "location": "Blumen",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 200
     },
     "kolibrifalter": {
@@ -7794,11 +7980,21 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "4 - 19 Uhr",
       "value": 300
     },
     "nashornkaefer": {
       "name": "Nashornkäfer",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -7807,55 +8003,48 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Bäume",
+      "activeLiteral": "17 - 8 Uhr",
       "value": 1350
     },
     "botan-garnele": {
       "name": "Botan-Garnele",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 1400
     },
     "rotfeuerfisch": {
@@ -7887,6 +8076,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 500
     },
     "koenigslibelle": {
@@ -7918,6 +8108,7 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 17 Uhr",
       "value": 230
     },
     "giesskannenschwamm": {
@@ -7949,37 +8140,39 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 5000
     },
     "fangschreckenkrebs": {
       "name": "Fangschreckenkrebs",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Meer",
+      "activeLiteral": "16 - 9 Uhr",
       "value": 2500
     },
     "seeananas": {
@@ -8011,11 +8204,17 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1500
     },
     "vogelspinne": {
       "name": "Vogelspinne",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -8030,18 +8229,14 @@ export default {
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "location": "Boden",
+      "activeLiteral": "19 - 4 Uhr",
       "value": 8000
     },
     "feuerlibelle": {
@@ -8073,37 +8268,39 @@ export default {
         false
       ],
       "location": "Luft",
+      "activeLiteral": "8 - 19 Uhr",
       "value": 180
     },
     "kugelassel": {
       "name": "Kugelassel",
       "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true
       ],
       "location": "Steine",
+      "activeLiteral": "23 - 16 Uhr",
       "value": 250
     },
     "see-engel": {
@@ -8135,6 +8332,7 @@ export default {
         true
       ],
       "location": "Meer",
+      "activeLiteral": "Den ganzen Tag",
       "value": 1000
     },
     "doebel": {
@@ -8166,6 +8364,7 @@ export default {
         false
       ],
       "location": "Fluss",
+      "activeLiteral": "9 - 16 Uhr",
       "value": 200
     },
     "marlin": {
@@ -8197,6 +8396,7 @@ export default {
         true
       ],
       "location": "Steg",
+      "activeLiteral": "Den ganzen Tag",
       "value": 10000
     }
   }

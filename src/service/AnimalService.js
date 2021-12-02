@@ -6,7 +6,7 @@ class AnimalService {
         this.hemisphere = hemisphere;
     }
 
-    getAnimals(domain, month, hour) {
+    get(domain, month, hour) {
         return data[this.hemisphere][month][domain]
             .map(slug => data.animals[slug])
             .filter(animal => animal.active[hour]);
