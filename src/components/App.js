@@ -7,6 +7,8 @@ import FishPanel from './FishPanel'
 import InsectsPanel from './InsectsPanel'
 import MarineLifePanel from './MarineLifePanel'
 
+import './App.css'
+
 export default class App extends Component {
     constructor(props) {
         super(props);
