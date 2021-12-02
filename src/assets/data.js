@@ -2,26 +2,38 @@
   "northernHemisphere": {
     "11": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
         "gazami-krabbe",
+        "giesskannenschwamm",
         "kammmuschel",
         "langust",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
+        "schneekrabbe",
         "seeanemone",
+        "seegurke",
+        "seeohr",
         "seepocke",
+        "seeschwein",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
+        "anglerfisch",
         "barsch",
+        "bitterling",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
@@ -33,8 +45,11 @@
         "kaiserschnapper",
         "karausche",
         "karpfen",
+        "kliesche",
         "koi-karpfen",
+        "kugelfisch",
         "makrele",
+        "marlin",
         "masulachs",
         "neonsalmer",
         "quastenflosser",
@@ -47,7 +62,9 @@
         "seebarsch",
         "seepferdchen",
         "sonnenbarsch",
+        "stoer",
         "teleskopauge",
+        "thunfisch",
         "wollhandkrabbe"
       ],
       "insekten": [
@@ -59,153 +76,253 @@
         "gottesanbeterin",
         "grille",
         "heuschrecke",
+        "hundertfuesser",
+        "kohlweissling",
+        "kugelassel",
         "ligia-exotica",
+        "maulwurfsgrille",
         "monarchfalter",
         "motte",
         "nasenschrecke",
         "orichideenmantis",
         "spinne",
         "stabschrecke",
+        "vogelspinne",
         "wanderschrecke",
+        "wasserjungfer",
         "weisse-baumnymphe",
         "wespe"
       ]
     },
     "1": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
+        "giesskannenschwamm",
+        "hummer",
         "kammmuschel",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlmuschel",
         "rote-koenigskrabbe",
+        "schneekrabbe",
         "seeanemone",
+        "seegurke",
+        "seeohr",
         "seepocke",
-        "seestern"
+        "seeschwein",
+        "seestern",
+        "wakame-alge"
       ],
       "fische": [
+        "anglerfisch",
         "barsch",
+        "bitterling",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
         "goldfisch ",
         "hasel",
+        "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
+        "kliesche",
         "koi-karpfen",
+        "kugelfisch",
         "makrele",
+        "marlin",
         "quastenflosser",
         "ranchu",
+        "riemenfisch",
         "sardelle",
         "seebarsch",
+        "see-engel",
         "sonnenbarsch",
-        "teleskopauge"
+        "stint",
+        "stoer",
+        "teleskopauge",
+        "thunfisch"
       ],
       "insekten": [
         "ameise",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "himmelsfalter",
+        "hundertfuesser",
+        "kohlweissling",
+        "kugelassel",
         "ligia-exotica",
+        "maulwurfsgrille",
+        "mistkaefer",
         "motte",
         "spinne",
+        "troides-brookiana",
+        "vogelspinne",
+        "wasserjungfer",
         "weisse-baumnymphe",
         "wespe"
       ]
     },
     "12": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
+        "giesskannenschwamm",
+        "hummer",
         "kammmuschel",
         "langust",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlmuschel",
+        "schneekrabbe",
         "seeanemone",
+        "seegurke",
+        "seeohr",
         "seepocke",
+        "seeschwein",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
+        "anglerfisch",
         "barsch",
+        "bitterling",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
         "goldfisch ",
         "hasel",
         "hecht",
+        "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
+        "kliesche",
         "koi-karpfen",
+        "kugelfisch",
         "makrele",
+        "marlin",
         "quastenflosser",
         "ranchu",
+        "riemenfisch",
         "sardelle",
         "seebarsch",
+        "see-engel",
         "sonnenbarsch",
-        "teleskopauge"
+        "stint",
+        "stoer",
+        "teleskopauge",
+        "thunfisch"
       ],
       "insekten": [
         "ameise",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "himmelsfalter",
+        "hundertfuesser",
+        "kohlweissling",
+        "kugelassel",
         "ligia-exotica",
+        "maulwurfsgrille",
+        "mistkaefer",
         "motte",
         "spinne",
+        "troides-brookiana",
+        "vogelspinne",
+        "wasserjungfer",
         "weisse-baumnymphe",
         "wespe"
       ]
     },
     "2": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
+        "giesskannenschwamm",
         "kammmuschel",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlmuschel",
         "rote-koenigskrabbe",
+        "schneekrabbe",
         "seeanemone",
+        "seegurke",
         "seepocke",
-        "seestern"
+        "seeschwein",
+        "seestern",
+        "wakame-alge"
       ],
       "fische": [
+        "anglerfisch",
         "barsch",
+        "bitterling",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
         "goldfisch ",
         "hasel",
+        "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
+        "kliesche",
         "koi-karpfen",
+        "kugelfisch",
         "makrele",
+        "marlin",
         "quastenflosser",
         "ranchu",
+        "riemenfisch",
         "sardelle",
         "seebarsch",
+        "see-engel",
         "sonnenbarsch",
-        "teleskopauge"
+        "stint",
+        "stoer",
+        "teleskopauge",
+        "thunfisch"
       ],
       "insekten": [
         "ameise",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "himmelsfalter",
+        "hundertfuesser",
+        "kohlweissling",
+        "kugelassel",
         "ligia-exotica",
+        "maulwurfsgrille",
+        "mistkaefer",
         "motte",
         "sandlaufkaefer",
         "spinne",
+        "troides-brookiana",
+        "vogelspinne",
+        "wasserjungfer",
         "weisse-baumnymphe",
         "wespe"
       ]
@@ -218,41 +335,56 @@
         "leuchtkalmar",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
         "riesenkrabbe",
         "rote-koenigskrabbe",
+        "schneekrabbe",
         "seeanemone",
+        "seegurke",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
+        "anglerfisch",
         "bachschmerle",
         "barsch",
+        "bitterling",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
         "hasel",
+        "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
         "kaulquappe",
+        "kliesche",
         "koi-karpfen",
         "makrele",
+        "marlin",
         "masulachs",
         "quastenflosser",
         "ranchu",
+        "riemenfisch",
         "saibling ",
         "sardelle",
         "schnabelbarsch",
         "seebarsch",
+        "see-engel",
         "sonnenbarsch",
-        "teleskopauge"
+        "stoer",
+        "teleskopauge",
+        "thunfisch"
       ],
       "insekten": [
         "ameise",
@@ -261,9 +393,14 @@
         "fliege",
         "gesichtswanze",
         "gottesanbeterin",
+        "himmelsfalter",
         "honigbiene",
+        "hundertfuesser",
+        "kohlweissling",
+        "kugelassel",
         "ligia-exotica",
         "marienkaefer",
+        "maulwurfsgrille",
         "motte",
         "orichideenmantis",
         "ritterfalter",
@@ -271,6 +408,7 @@
         "schwalbenschwanz",
         "spinne",
         "stinkwanze",
+        "vogelspinne",
         "weisse-baumnymphe",
         "wespe",
         "zitronenfalter"
@@ -285,15 +423,19 @@
         "leuchtkalmar",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
         "riesenkrabbe",
+        "schneekrabbe",
         "seeananas",
         "seeanemone",
+        "seegurke",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
@@ -301,6 +443,7 @@
         "barsch",
         "doebel",
         "falterfisch",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "flusskrebs",
@@ -310,17 +453,21 @@
         "guppy",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
         "kaulquappe",
         "kilifisch",
+        "kliesche",
         "koi-karpfen",
         "makrele",
+        "marlin",
         "masulachs",
         "neonsalmer",
         "paletten-doktorfisch",
         "quastenflosser",
         "ranchu",
+        "riemenfisch",
         "rotfeuerfisch",
         "saibling ",
         "sardelle",
@@ -329,7 +476,8 @@
         "seebarsch",
         "seepferdchen",
         "sonnenbarsch",
-        "teleskopauge"
+        "teleskopauge",
+        "thunfisch"
       ],
       "insekten": [
         "agrias-falter",
@@ -342,10 +490,14 @@
         "gesichtswanze",
         "gottesanbeterin",
         "honigbiene",
+        "hundertfuesser",
+        "kohlweissling",
         "kolibrifalter",
         "koenigslibelle",
+        "kugelassel",
         "ligia-exotica",
         "marienkaefer",
+        "maulwurfsgrille",
         "motte",
         "nasenschrecke",
         "orichideenmantis",
@@ -358,6 +510,7 @@
         "spinne",
         "stinkwanze",
         "troides-brookiana",
+        "vogelspinne",
         "wanderschrecke",
         "weisse-baumnymphe",
         "wespe",
@@ -375,6 +528,7 @@
         "leuchtkalmar",
         "nacktkiemer",
         "oktopus",
+        "pazifik-taschenkrebs",
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
@@ -385,7 +539,8 @@
         "seepocke",
         "seestern",
         "turbanschnecke",
-        "vampirtintenfisch"
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
@@ -404,6 +559,7 @@
         "guppy",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
         "kampffisch",
         "karausche",
         "karpfen",
@@ -418,6 +574,7 @@
         "quastenflosser",
         "ranchu",
         "regenbogenfisch",
+        "riemenfisch",
         "rotfeuerfisch",
         "saibling ",
         "sardelle",
@@ -444,11 +601,15 @@
         "gesichtswanze",
         "gottesanbeterin",
         "honigbiene",
+        "hundertfuesser",
         "japan-schillerfalter",
+        "kohlweissling",
         "kolibrifalter",
         "koenigslibelle",
+        "kugelassel",
         "ligia-exotica",
         "marienkaefer",
+        "maulwurfsgrille",
         "motte",
         "nasenschrecke",
         "orichideenmantis",
@@ -493,9 +654,11 @@
         "seeananas",
         "seeanemone",
         "seeigel",
+        "seeohr",
         "seepocke",
         "seestern",
-        "vampirtintenfisch"
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
@@ -517,6 +680,7 @@
         "hammerhai",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
         "kampffisch",
         "karausche",
         "karpfen",
@@ -569,10 +733,13 @@
         "gottesanbeterin",
         "himmelsfalter",
         "honigbiene",
+        "hundertfuesser",
         "japan-rosenkaefer",
         "japan-schillerfalter",
+        "kohlweissling",
         "kolibrifalter",
         "koenigslibelle",
+        "kugelassel",
         "leuchtkaefer",
         "ligia-exotica",
         "marienkaefer",
@@ -623,9 +790,11 @@
         "seeananas",
         "seeanemone",
         "seeigel",
+        "seeohr",
         "seepocke",
         "seestern",
-        "vampirtintenfisch"
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
@@ -649,6 +818,7 @@
         "hasel",
         "igelfisch",
         "kaiserschnapper",
+        "kalmar",
         "kampffisch",
         "karausche",
         "karpfen",
@@ -772,6 +942,7 @@
         "seeananas",
         "seeanemone",
         "seeigel",
+        "seeohr",
         "seepocke",
         "seestern",
         "vampirtintenfisch"
@@ -798,6 +969,7 @@
         "hasel",
         "igelfisch",
         "kaiserschnapper",
+        "kalmar",
         "kampffisch",
         "karausche",
         "karpfen",
@@ -904,7 +1076,9 @@
     },
     "9": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
         "gazami-krabbe",
         "griffelseeigel",
@@ -925,6 +1099,7 @@
         "roehrenaal",
         "seeanemone",
         "seeigel",
+        "seeohr",
         "seepocke",
         "seestern",
         "turbanschnecke"
@@ -987,6 +1162,7 @@
         "skalar",
         "sonnenbarsch",
         "stachelmakrele",
+        "stoer",
         "teleskopauge",
         "tilapia",
         "walhai",
@@ -1014,7 +1190,10 @@
         "grille",
         "heuschrecke",
         "himmelsfalter",
+        "hundertfuesser",
+        "kohlweissling",
         "koenigslibelle",
+        "kugelassel",
         "ligia-exotica",
         "monarchfalter",
         "motte",
@@ -1044,9 +1223,12 @@
     },
     "10": {
       "meerestiere": [
+        "auster",
         "babylon-seeschnecke",
+        "botan-garnele",
         "fangschreckenkrebs",
         "gazami-krabbe",
+        "giesskannenschwamm",
         "kammmuschel",
         "langust",
         "miesmuschel",
@@ -1058,14 +1240,17 @@
         "riesenassel",
         "roehrenaal",
         "seeanemone",
+        "seeohr",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
         "anemomenfisch",
         "barsch",
         "doebel",
+        "flunder",
         "flussbarsch",
         "flussgrundel",
         "glaskopffisch",
@@ -1080,6 +1265,7 @@
         "karausche",
         "karpfen",
         "katzenwels",
+        "kliesche",
         "koi-karpfen",
         "makrele",
         "masulachs",
@@ -1100,6 +1286,7 @@
         "skalar",
         "sonnenbarsch",
         "stachelmakrele",
+        "stoer",
         "teleskopauge",
         "tilapia",
         "wollhandkrabbe"
@@ -1115,7 +1302,10 @@
         "gottesanbeterin",
         "grille",
         "heuschrecke",
+        "hundertfuesser",
+        "kohlweissling",
         "koenigslibelle",
+        "kugelassel",
         "ligia-exotica",
         "marienkaefer",
         "monarchfalter",
@@ -1141,6 +1331,8 @@
       "meerestiere": [
         "babylon-seeschnecke",
         "fangschreckenkrebs",
+        "griffelseeigel",
+        "grosse-riesenmuschel",
         "hummer",
         "kammmuschel",
         "leuchtkalmar",
@@ -1150,53 +1342,105 @@
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
+        "roehrenaal",
         "rote-koenigskrabbe",
+        "seeananas",
         "seeanemone",
+        "seeigel",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
         "bachschmerle",
         "barsch",
         "doebel",
+        "falterfisch",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
+        "frosch",
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
+        "goldmakrele",
+        "guppy",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
+        "kaulquappe",
+        "kilifisch",
         "koi-karpfen",
         "makrele",
         "masulachs",
+        "neonsalmer",
+        "paletten-doktorfisch",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
         "riemenfisch",
+        "rotfeuerfisch",
         "saibling ",
         "sardelle",
+        "saugbarbe",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
+        "stachelmakrele",
         "teleskopauge"
       ],
       "insekten": [
+        "agrias-falter",
+        "alpenbock",
         "ameise",
+        "atlasspinner",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "floh",
         "geigenkaefer",
+        "gesichtswanze",
+        "goliathkaefer",
+        "gottesanbeterin",
+        "honigbiene",
         "hundertfuesser",
+        "japan-schillerfalter",
         "kohlweissling",
+        "kolibrifalter",
+        "koenigslibelle",
         "kugelassel",
         "leuchtkaefer",
         "ligia-exotica",
         "marienkaefer",
         "maulwurfsgrille",
         "motte",
+        "nasenschrecke",
+        "orichideenmantis",
+        "pracht-hirschkaefer",
+        "prachtkaefer",
+        "quelljungfer",
+        "regenbogenfalter",
+        "riesenwanze",
         "ritterfalter",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
+        "schwimmkaefer",
+        "skorpion",
         "spinne",
+        "stinkwanze",
+        "troides-brookiana",
+        "vogelfalter",
+        "wasserlaeufer",
         "weisse-baumnymphe",
         "wespe",
         "zitronenfalter"
@@ -1206,60 +1450,147 @@
       "meerestiere": [
         "babylon-seeschnecke",
         "fangschreckenkrebs",
+        "gazami-krabbe",
+        "griffelseeigel",
+        "grosse-riesenmuschel",
         "kammmuschel",
+        "kriechsprossalge",
+        "kuruma-garnele",
+        "miesmuschel",
         "nacktkiemer",
         "ohrenqualle",
         "oktopus",
         "perlmuschel",
         "pfeilschwanzkrebs",
         "riesenassel",
+        "roehrenaal",
+        "seeananas",
         "seeanemone",
+        "seeigel",
+        "seeohr",
         "seepocke",
-        "seestern"
+        "seestern",
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
+        "arapaima",
+        "arowana",
         "ayu",
         "barsch",
         "doebel",
+        "falterfisch",
+        "floesselhecht",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
+        "frosch",
         "glaskopffisch",
         "goldfisch ",
+        "goldmakrele",
+        "guppy",
+        "hai",
+        "hammerhai",
         "hasel",
         "igelfisch",
         "kaiserschnapper",
+        "kalmar",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
+        "kaulquappe",
+        "kilifisch",
+        "knochenhecht",
         "koi-karpfen",
+        "lachssalmler",
         "makrele",
         "marlin",
         "mondfisch",
         "napoleanfisch",
+        "nasenmuraene",
+        "neonsalmer",
+        "paletten-doktorfisch",
+        "piranha",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
+        "rotfeuerfisch",
+        "saegehai",
         "sardelle",
+        "saugbarbe",
+        "schiffshalter",
+        "schlangenkopf",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
-        "teleskopauge"
+        "stachelmakrele",
+        "teleskopauge",
+        "tilapia",
+        "walhai"
       ],
       "insekten": [
         "abendzikade",
+        "agrias-falter",
+        "allotups-rosenbergi",
+        "alpenbock",
         "ameise",
+        "atlaskaefer",
+        "atlasspinner",
+        "blattschrecke",
         "blauruesselkaefer",
         "braunzikade",
+        "cyclommantus",
         "einsiedlerkrebs",
+        "elefantenkaefer",
         "fichtenbock",
         "fliege",
+        "floh",
+        "gesichtswanze",
+        "giraffenhirschkaefer",
         "gold-mistkaefer",
         "goldskarabaeus",
+        "goliathkaefer",
+        "gottesanbeterin",
         "grashuepfer",
+        "herkuleskaefer",
+        "himmelsfalter",
+        "hirschkaefer",
+        "honigbiene",
         "hyalessa-zikade",
+        "japan-rosenkaefer",
+        "japan-schillerfalter",
+        "kolibrifalter",
+        "koenigslibelle",
         "ligia-exotica",
         "motte",
+        "muecke",
+        "nasenschrecke",
+        "nashornkaefer",
+        "orichideenmantis",
+        "pracht-hirschkaefer",
+        "prachtkaefer",
+        "quelljungfer",
+        "regenbogenfalter",
+        "riesen-hirschkaefer",
+        "riesenwanze",
         "riesenzikade",
         "sacktraeger",
+        "saegezahn-hirschkaefer",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
+        "schwimmkaefer",
+        "skorpion",
         "spinne",
         "stabschrecke",
+        "stinkwanze",
+        "troides-brookiana",
+        "vogelfalter",
+        "wasserlaeufer",
         "weisse-baumnymphe",
         "wespe",
         "zikadenlarvenhaut"
@@ -1269,55 +1600,142 @@
       "meerestiere": [
         "babylon-seeschnecke",
         "fangschreckenkrebs",
+        "gazami-krabbe",
+        "griffelseeigel",
+        "grosse-riesenmuschel",
         "hummer",
         "kammmuschel",
+        "kriechsprossalge",
+        "kuruma-garnele",
         "leuchtkalmar",
+        "miesmuschel",
         "nacktkiemer",
         "oktopus",
         "perlboot",
         "perlmuschel",
+        "roehrenaal",
         "rote-koenigskrabbe",
+        "seeananas",
         "seeanemone",
+        "seeigel",
+        "seeohr",
         "seepocke",
-        "seestern"
+        "seestern",
+        "vampirtintenfisch",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
+        "arapaima",
+        "arowana",
         "barsch",
         "doebel",
+        "falterfisch",
+        "floesselhecht",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
+        "frosch",
         "glaskopffisch",
         "goldfisch ",
+        "goldmakrele",
+        "guppy",
+        "hai",
+        "hammerhai",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
+        "kaulquappe",
+        "kilifisch",
+        "knochenhecht",
         "koi-karpfen",
+        "lachssalmler",
         "makrele",
         "masulachs",
+        "nasenmuraene",
+        "neonsalmer",
+        "paletten-doktorfisch",
+        "piranha",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
+        "rotfeuerfisch",
+        "saegehai",
         "saibling ",
         "sardelle",
+        "saugbarbe",
+        "schiffshalter",
+        "schlangenkopf",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
-        "teleskopauge"
+        "stachelmakrele",
+        "teleskopauge",
+        "tilapia",
+        "walhai"
       ],
       "insekten": [
+        "agrias-falter",
+        "allotups-rosenbergi",
+        "alpenbock",
         "ameise",
+        "atlaskaefer",
+        "atlasspinner",
+        "blattschrecke",
+        "cyclommantus",
         "einsiedlerkrebs",
+        "elefantenkaefer",
         "fichtenbock",
         "fliege",
+        "floh",
         "geigenkaefer",
+        "gesichtswanze",
+        "giraffenhirschkaefer",
         "gluehwuermchen",
+        "goliathkaefer",
+        "gottesanbeterin",
+        "herkuleskaefer",
+        "himmelsfalter",
+        "hirschkaefer",
+        "honigbiene",
         "hundertfuesser",
+        "japan-rosenkaefer",
+        "japan-schillerfalter",
         "kohlweissling",
+        "kolibrifalter",
+        "koenigslibelle",
         "kugelassel",
         "ligia-exotica",
         "marienkaefer",
         "motte",
+        "muecke",
+        "nasenschrecke",
+        "nashornkaefer",
+        "orichideenmantis",
+        "pracht-hirschkaefer",
+        "prachtkaefer",
+        "quelljungfer",
+        "regenbogenfalter",
+        "riesen-hirschkaefer",
+        "riesenwanze",
         "ritterfalter",
+        "saegezahn-hirschkaefer",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
+        "schwimmkaefer",
+        "skorpion",
         "spinne",
+        "stinkwanze",
+        "troides-brookiana",
+        "vogelfalter",
+        "wasserlaeufer",
         "weisse-baumnymphe",
         "wespe",
         "zitronenfalter"
@@ -1327,67 +1745,141 @@
       "meerestiere": [
         "babylon-seeschnecke",
         "fangschreckenkrebs",
+        "gazami-krabbe",
+        "griffelseeigel",
+        "grosse-riesenmuschel",
         "kammmuschel",
+        "kriechsprossalge",
+        "kuruma-garnele",
         "meerstrudelwurm",
+        "miesmuschel",
         "nacktkiemer",
         "ohrenqualle",
         "oktopus",
         "perlmuschel",
         "pfeilschwanzkrebs",
         "riesenassel",
+        "roehrenaal",
+        "seeananas",
         "seeanemone",
+        "seeigel",
+        "seeohr",
         "seepocke",
-        "seestern"
+        "seestern",
+        "vampirtintenfisch"
       ],
       "fische": [
+        "anemomenfisch",
+        "arapaima",
+        "arowana",
         "ayu",
         "barsch",
         "doebel",
+        "falterfisch",
+        "floesselhecht",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
+        "frosch",
         "glaskopffisch",
         "goldfisch ",
+        "goldmakrele",
+        "guppy",
+        "hai",
+        "hammerhai",
         "hasel",
         "igelfisch",
         "kaiserschnapper",
+        "kalmar",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
+        "kilifisch",
+        "knochenhecht",
         "koi-karpfen",
+        "lachssalmler",
         "makrele",
         "marlin",
         "mondfisch",
         "muraene",
         "napoleanfisch",
+        "nasenmuraene",
+        "neonsalmer",
+        "paletten-doktorfisch",
+        "piranha",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
         "rochen",
+        "rotfeuerfisch",
+        "saegehai",
         "sardelle",
+        "saugbarbe",
+        "schiffshalter",
+        "schlangenkopf",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
+        "stachelmakrele",
         "teleskopauge",
+        "tilapia",
+        "walhai",
         "weichschildkroete"
       ],
       "insekten": [
         "abendzikade",
+        "agrias-falter",
+        "alpenbock",
         "ameise",
+        "atlasspinner",
         "bergzikade",
+        "blattschrecke",
         "blauruesselkaefer",
         "braunzikade",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "floh",
+        "gesichtswanze",
         "gold-mistkaefer",
         "goldskarabaeus",
+        "goliathkaefer",
+        "gottesanbeterin",
         "grashuepfer",
         "heuschrecke",
+        "himmelsfalter",
         "hyalessa-zikade",
+        "japan-rosenkaefer",
+        "japan-schillerfalter",
+        "kolibrifalter",
+        "koenigslibelle",
         "ligia-exotica",
         "motte",
+        "muecke",
+        "nasenschrecke",
+        "orichideenmantis",
+        "pracht-hirschkaefer",
+        "prachtkaefer",
+        "quelljungfer",
+        "regenbogenfalter",
+        "riesenwanze",
         "riesenzikade",
         "sacktraeger",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
+        "schwimmkaefer",
+        "skorpion",
         "spinne",
         "stabschrecke",
+        "stinkwanze",
+        "troides-brookiana",
+        "vogelfalter",
         "wanderschrecke",
+        "wasserlaeufer",
         "weisse-baumnymphe",
         "wespe",
         "zikadenlarvenhaut"
@@ -1399,8 +1891,14 @@
         "babylon-seeschnecke",
         "botan-garnele",
         "fangschreckenkrebs",
+        "gazami-krabbe",
+        "griffelseeigel",
+        "grosse-riesenmuschel",
         "kammmuschel",
+        "kriechsprossalge",
+        "kuruma-garnele",
         "meerstrudelwurm",
+        "miesmuschel",
         "nacktkiemer",
         "oktopus",
         "perlboot",
@@ -1408,69 +1906,124 @@
         "pfeilschwanzkrebs",
         "regenschirm-oktopus",
         "riesenassel",
+        "roehrenaal",
         "seeanemone",
+        "seeigel",
+        "seeohr",
         "seepocke",
         "seestern",
         "turbanschnecke"
       ],
       "fische": [
+        "anemomenfisch",
+        "arapaima",
+        "arowana",
         "ayu",
         "barsch",
         "doebel",
+        "falterfisch",
+        "floesselhecht",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
+        "goldmakrele",
+        "guppy",
+        "hai",
+        "hammerhai",
         "hasel",
         "hecht",
         "igelfisch",
         "kaiserschnapper",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
+        "knochenhecht",
         "koi-karpfen",
         "koenigslachs",
         "lachs",
+        "lachssalmler",
         "makrele",
         "marlin",
         "masulachs",
         "mondfisch",
         "muraene",
+        "nasenmuraene",
+        "neonsalmer",
+        "paletten-doktorfisch",
+        "piranha",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
         "rochen",
+        "rotfeuerfisch",
+        "saegehai",
         "saibling ",
         "sardelle",
+        "saugbarbe",
+        "schiffshalter",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
+        "stachelmakrele",
         "stoer",
         "teleskopauge",
+        "tilapia",
+        "walhai",
         "weichschildkroete",
         "wollhandkrabbe"
       ],
       "insekten": [
+        "agrias-falter",
+        "alpenbock",
         "ameise",
+        "atlasspinner",
         "bergzikade",
         "einsiedlerkrebs",
         "feuerlibelle",
         "fichtenbock",
         "fliege",
+        "floh",
         "geigenkaefer",
+        "gesichtswanze",
         "gold-mistkaefer",
+        "gottesanbeterin",
         "grashuepfer",
         "grille",
         "heuschrecke",
+        "himmelsfalter",
         "hundertfuesser",
         "kohlweissling",
+        "koenigslibelle",
         "kugelassel",
         "ligia-exotica",
         "monarchfalter",
         "motte",
+        "muecke",
+        "nasenschrecke",
+        "orichideenmantis",
+        "quelljungfer",
+        "regenbogenfalter",
+        "riesenwanze",
         "sacktraeger",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
+        "schwimmkaefer",
         "singgrille",
+        "skorpion",
         "spinne",
         "stabschrecke",
+        "stinkwanze",
+        "troides-brookiana",
+        "vogelfalter",
         "wanderschrecke",
+        "wasserlaeufer",
         "weisse-baumnymphe",
         "wespe",
         "zitronenfalter"
@@ -1482,21 +2035,27 @@
         "babylon-seeschnecke",
         "botan-garnele",
         "fangschreckenkrebs",
+        "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
         "langust",
+        "miesmuschel",
         "nacktkiemer",
         "oktopus",
         "perlboot",
         "perlmuschel",
         "regenschirm-oktopus",
         "riesenassel",
+        "roehrenaal",
         "seeanemone",
+        "seeohr",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
         "barsch",
         "doebel",
         "flunder",
@@ -1505,25 +2064,39 @@
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
+        "goldmakrele",
+        "guppy",
         "hasel",
         "hecht",
         "kaiserschnapper",
+        "kampffisch",
         "karausche",
         "karpfen",
+        "katzenwels",
         "kliesche",
         "koi-karpfen",
         "makrele",
         "masulachs",
         "muraene",
+        "nasenmuraene",
+        "neonsalmer",
         "quastenflosser",
         "ranchu",
+        "regenbogenfisch",
         "rochen",
+        "rotfeuerfisch",
         "saibling ",
         "sardelle",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
+        "skalar",
         "sonnenbarsch",
+        "stachelmakrele",
         "stoer",
         "teleskopauge",
+        "tilapia",
         "wollhandkrabbe"
       ],
       "insekten": [
@@ -1532,19 +2105,29 @@
         "feuerlibelle",
         "fichtenbock",
         "fliege",
+        "floh",
         "geigenkaefer",
+        "gesichtswanze",
+        "gottesanbeterin",
         "grille",
         "heuschrecke",
         "hundertfuesser",
         "kohlweissling",
+        "koenigslibelle",
         "kugelassel",
         "ligia-exotica",
         "marienkaefer",
         "monarchfalter",
         "motte",
+        "nasenschrecke",
+        "orichideenmantis",
+        "quelljungfer",
+        "sandlaufkaefer",
         "singgrille",
+        "skorpion",
         "spinne",
         "stabschrecke",
+        "stinkwanze",
         "wanderschrecke",
         "weisse-baumnymphe",
         "wespe",
@@ -1557,9 +2140,11 @@
         "babylon-seeschnecke",
         "botan-garnele",
         "fangschreckenkrebs",
+        "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
         "langust",
+        "miesmuschel",
         "nacktkiemer",
         "oktopus",
         "pazifik-taschenkrebs",
@@ -1569,12 +2154,15 @@
         "schneekrabbe",
         "seeanemone",
         "seegurke",
+        "seeohr",
         "seepocke",
         "seeschwein",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
         "anglerfisch",
         "barsch",
         "bitterling",
@@ -1585,6 +2173,7 @@
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
+        "guppy",
         "hasel",
         "hecht",
         "kaiserschnapper",
@@ -1596,12 +2185,16 @@
         "makrele",
         "marlin",
         "masulachs",
+        "neonsalmer",
         "quastenflosser",
         "ranchu",
         "rochen",
+        "rotfeuerfisch",
         "saibling ",
         "sardelle",
+        "schnabelbarsch",
         "seebarsch",
+        "seepferdchen",
         "sonnenbarsch",
         "stoer",
         "teleskopauge",
@@ -1613,7 +2206,9 @@
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "floh",
         "geigenkaefer",
+        "gottesanbeterin",
         "grille",
         "heuschrecke",
         "hundertfuesser",
@@ -1624,6 +2219,8 @@
         "mistkaefer",
         "monarchfalter",
         "motte",
+        "nasenschrecke",
+        "orichideenmantis",
         "spinne",
         "stabschrecke",
         "vogelspinne",
@@ -1642,6 +2239,7 @@
         "hummer",
         "kammmuschel",
         "langust",
+        "miesmuschel",
         "nacktkiemer",
         "oktopus",
         "pazifik-taschenkrebs",
@@ -1649,10 +2247,12 @@
         "schneekrabbe",
         "seeanemone",
         "seegurke",
+        "seeohr",
         "seepocke",
         "seeschwein",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
         "anglerfisch",
@@ -1668,6 +2268,7 @@
         "hecht",
         "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
         "kliesche",
@@ -1724,9 +2325,11 @@
         "schneekrabbe",
         "seeanemone",
         "seegurke",
+        "seeohr",
         "seepocke",
         "seeschwein",
-        "seestern"
+        "seestern",
+        "wakame-alge"
       ],
       "fische": [
         "anglerfisch",
@@ -1741,6 +2344,7 @@
         "hasel",
         "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
         "kliesche",
@@ -1798,7 +2402,8 @@
         "seegurke",
         "seepocke",
         "seeschwein",
-        "seestern"
+        "seestern",
+        "wakame-alge"
       ],
       "fische": [
         "anglerfisch",
@@ -1813,6 +2418,7 @@
         "hasel",
         "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
         "kliesche",
@@ -1844,6 +2450,7 @@
         "ligia-exotica",
         "maulwurfsgrille",
         "motte",
+        "sandlaufkaefer",
         "spinne",
         "troides-brookiana",
         "vogelspinne",
@@ -1870,7 +2477,8 @@
         "seegurke",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
         "anglerfisch",
@@ -1887,8 +2495,10 @@
         "hasel",
         "huchen",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
+        "kaulquappe",
         "kliesche",
         "koi-karpfen",
         "makrele",
@@ -1899,6 +2509,7 @@
         "riemenfisch",
         "saibling ",
         "sardelle",
+        "schnabelbarsch",
         "seebarsch",
         "see-engel",
         "sonnenbarsch",
@@ -1911,7 +2522,10 @@
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "gesichtswanze",
+        "gottesanbeterin",
         "himmelsfalter",
+        "honigbiene",
         "hundertfuesser",
         "kohlweissling",
         "kugelassel",
@@ -1919,8 +2533,12 @@
         "marienkaefer",
         "maulwurfsgrille",
         "motte",
+        "orichideenmantis",
         "ritterfalter",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
         "spinne",
+        "stinkwanze",
         "vogelspinne",
         "weisse-baumnymphe",
         "wespe",
@@ -1942,55 +2560,87 @@
         "regenschirm-oktopus",
         "riesenkrabbe",
         "schneekrabbe",
+        "seeananas",
         "seeanemone",
         "seegurke",
         "seepocke",
         "seestern",
-        "turbanschnecke"
+        "turbanschnecke",
+        "wakame-alge"
       ],
       "fische": [
+        "anemomenfisch",
         "bachschmerle",
         "barsch",
         "doebel",
+        "falterfisch",
         "flunder",
         "flussbarsch",
         "flussgrundel",
+        "flusskrebs",
         "glaskopffisch",
         "goldfisch ",
         "goldforelle",
+        "guppy",
         "hasel",
         "kaiserschnapper",
+        "kalmar",
         "karausche",
         "karpfen",
+        "kaulquappe",
+        "kilifisch",
         "kliesche",
         "koi-karpfen",
         "makrele",
         "marlin",
         "masulachs",
+        "neonsalmer",
+        "paletten-doktorfisch",
         "quastenflosser",
         "ranchu",
         "riemenfisch",
+        "rotfeuerfisch",
         "saibling ",
         "sardelle",
+        "schnabelbarsch",
+        "schnappschildkroete",
         "seebarsch",
+        "seepferdchen",
         "sonnenbarsch",
         "teleskopauge",
         "thunfisch"
       ],
       "insekten": [
+        "agrias-falter",
         "ameise",
+        "atlasspinner",
         "einsiedlerkrebs",
         "fichtenbock",
         "fliege",
+        "floh",
+        "gesichtswanze",
+        "gottesanbeterin",
+        "honigbiene",
         "hundertfuesser",
         "kohlweissling",
+        "kolibrifalter",
+        "koenigslibelle",
         "kugelassel",
         "ligia-exotica",
         "marienkaefer",
         "maulwurfsgrille",
         "motte",
+        "nasenschrecke",
+        "orichideenmantis",
+        "prachtkaefer",
+        "regenbogenfalter",
+        "riesenwanze",
         "ritterfalter",
+        "sandlaufkaefer",
+        "schwalbenschwanz",
         "spinne",
+        "stinkwanze",
+        "troides-brookiana",
         "vogelspinne",
         "weisse-baumnymphe",
         "wespe",
@@ -2000,6 +2650,7 @@
   },
   "animals": {
     "schnabelbarsch": {
+      "northernHemisphere": "März bis November",
       "name": "Schnabelbarsch",
       "active": [
         true,
@@ -2028,10 +2679,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "September bis Mai",
       "value": 5000
     },
     "goldforelle": {
+      "northernHemisphere": "März bis Mai und September bis November",
       "name": "Goldforelle",
       "active": [
         true,
@@ -2061,9 +2714,11 @@
       ],
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "September bis November und März bis Mai",
       "value": 3800
     },
     "falterfisch": {
+      "northernHemisphere": "April bis September",
       "name": "Falterfisch",
       "active": [
         true,
@@ -2092,10 +2747,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis März",
       "value": 1000
     },
     "ohrenqualle": {
+      "northernHemisphere": "Juli bis September",
       "name": "Ohrenqualle",
       "active": [
         true,
@@ -2124,10 +2781,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis Februar",
       "value": 600
     },
     "turbanschnecke": {
+      "northernHemisphere": "März bis Mai und September bis Dezember",
       "name": "Turbanschnecke",
       "active": [
         true,
@@ -2156,10 +2815,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis Juni und September bis November",
       "value": 1000
     },
     "langust": {
+      "northernHemisphere": "Oktober bis Dezember",
       "name": "Langust",
       "active": [
         true,
@@ -2189,9 +2850,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "April bis Juni",
       "value": 5000
     },
     "troides-brookiana": {
+      "northernHemisphere": "April bis September und Dezember bis Februar",
       "name": "Troides brookiana",
       "active": [
         false,
@@ -2221,9 +2884,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Juni bis August und Oktober bis März",
       "value": 2500
     },
     "vampirtintenfisch": {
+      "northernHemisphere": "Mai bis August",
       "name": "Vampirtintenfisch",
       "active": [
         true,
@@ -2253,9 +2918,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "November bis Februar",
       "value": 10000
     },
     "seegurke": {
+      "northernHemisphere": "November bis April",
       "name": "Seegurke",
       "active": [
         true,
@@ -2284,10 +2951,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis Oktober",
       "value": 500
     },
     "gluehwuermchen": {
+      "northernHemisphere": "Juni",
       "name": "Glühwürmchen",
       "active": [
         true,
@@ -2317,9 +2986,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "Dezember",
       "value": 0
     },
     "koenigslachs": {
+      "northernHemisphere": "September",
       "name": "Königslachs",
       "active": [
         true,
@@ -2348,10 +3019,12 @@
         true
       ],
       "location": "Flussmündung",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März",
       "value": 1800
     },
     "skorpion": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Skorpion",
       "active": [
         true,
@@ -2381,9 +3054,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 8000
     },
     "elefantenkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Elefantenkäfer",
       "active": [
         true,
@@ -2413,9 +3088,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 8000
     },
     "ranchu": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Ranchu",
       "active": [
         false,
@@ -2445,9 +3122,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 4500
     },
     "kaulquappe": {
+      "northernHemisphere": "März bis Juli",
       "name": "Kaulquappe",
       "active": [
         true,
@@ -2476,10 +3155,12 @@
         true
       ],
       "location": "Teich",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "September bis Januar",
       "value": 100
     },
     "rote-koenigskrabbe": {
+      "northernHemisphere": "Januar bis März",
       "name": "Rote Königskrabbe",
       "active": [
         true,
@@ -2508,10 +3189,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis Dezember",
       "value": 8000
     },
     "hirschkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Hirschkäfer",
       "active": [
         true,
@@ -2540,10 +3223,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 1000
     },
     "riesenassel": {
+      "northernHemisphere": "Juli bis Oktober",
       "name": "Riesenassel",
       "active": [
         false,
@@ -2573,9 +3258,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "Januar bis April",
       "value": 12000
     },
     "paletten-doktorfisch": {
+      "northernHemisphere": "April bis September",
       "name": "Paletten-Doktorfisch",
       "active": [
         true,
@@ -2604,10 +3291,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis März",
       "value": 1000
     },
     "schneekrabbe": {
+      "northernHemisphere": "November bis April",
       "name": "Schneekrabbe",
       "active": [
         true,
@@ -2636,10 +3325,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis Oktober",
       "value": 6000
     },
     "goldmakrele": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Goldmakrele",
       "active": [
         true,
@@ -2668,10 +3359,12 @@
         true
       ],
       "location": "Steg",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis April",
       "value": 6000
     },
     "kliesche": {
+      "northernHemisphere": "Oktober bis April",
       "name": "Kliesche",
       "active": [
         true,
@@ -2700,10 +3393,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "April bis Oktober",
       "value": 300
     },
     "singgrille": {
+      "northernHemisphere": "September bis Oktober",
       "name": "Singgrille",
       "active": [
         true,
@@ -2733,9 +3428,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "März bis April",
       "value": 430
     },
     "anglerfisch": {
+      "northernHemisphere": "November bis März",
       "name": "Anglerfisch",
       "active": [
         true,
@@ -2765,9 +3462,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Mai bis September",
       "value": 2000
     },
     "schnappschildkroete": {
+      "northernHemisphere": "April bis Oktober",
       "name": "Schnappschildkröte",
       "active": [
         true,
@@ -2797,9 +3496,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "Oktober bis April",
       "value": 5000
     },
     "wollhandkrabbe": {
+      "northernHemisphere": "September bis November",
       "name": "Wollhandkrabbe",
       "active": [
         true,
@@ -2829,9 +3530,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "März bis Mai",
       "value": 2000
     },
     "giraffenhirschkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Giraffenhirschkäfer",
       "active": [
         true,
@@ -2861,9 +3564,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 12000
     },
     "huchen": {
+      "northernHemisphere": "Dezember bis März",
       "name": "Huchen",
       "active": [
         true,
@@ -2893,9 +3598,11 @@
       ],
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Juni bis September",
       "value": 15000
     },
     "sonnenbarsch": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Sonnenbarsch",
       "active": [
         false,
@@ -2925,9 +3632,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 180
     },
     "schlangenkopf": {
+      "northernHemisphere": "Juni bis August",
       "name": "Schlangenkopf",
       "active": [
         false,
@@ -2957,9 +3666,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "Dezember bis Februar",
       "value": 5500
     },
     "knochenhecht": {
+      "northernHemisphere": "Juni bis September",
       "name": "Knochenhecht",
       "active": [
         true,
@@ -2989,9 +3700,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 6000
     },
     "kuruma-garnele": {
+      "northernHemisphere": "Juni bis September",
       "name": "Kuruma-Garnele",
       "active": [
         true,
@@ -3020,10 +3733,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis März",
       "value": 3000
     },
     "babylon-seeschnecke": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Babylon-Seeschnecke",
       "active": [
         true,
@@ -3052,10 +3767,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1000
     },
     "perlboot": {
+      "northernHemisphere": "März bis Juni und September bis November",
       "name": "Perlboot",
       "active": [
         true,
@@ -3085,9 +3802,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "März bis  Mai und September bis Dezember",
       "value": 1800
     },
     "nasenmuraene": {
+      "northernHemisphere": "Juni bis Oktober",
       "name": "Nasenmuräne",
       "active": [
         true,
@@ -3116,10 +3835,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis April",
       "value": 600
     },
     "orichideenmantis": {
+      "northernHemisphere": "März bis November",
       "name": "Orichideenmantis",
       "active": [
         false,
@@ -3149,9 +3870,11 @@
       ],
       "location": "Blumen",
       "activeLiteral": "8 - 16 Uhr",
+      "southernHemisphere": "September bis Mai",
       "value": 430
     },
     "griffelseeigel": {
+      "northernHemisphere": "Mai bis September",
       "name": "Griffelseeigel",
       "active": [
         true,
@@ -3181,9 +3904,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "November bis März",
       "value": 2000
     },
     "regenbogenfisch": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Regenbogenfisch",
       "active": [
         false,
@@ -3213,9 +3938,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 800
     },
     "riesenkrabbe": {
+      "northernHemisphere": "März bis April",
       "name": "Riesenkrabbe",
       "active": [
         true,
@@ -3244,10 +3971,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "September bis Oktober",
       "value": 10000
     },
     "seeanemone": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Seeanemone",
       "active": [
         true,
@@ -3276,10 +4005,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 500
     },
     "sacktraeger": {
+      "northernHemisphere": "Juni bis August",
       "name": "Sackträger",
       "active": [
         true,
@@ -3308,10 +4039,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis März",
       "value": 600
     },
     "kammmuschel": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Kammmuschel",
       "active": [
         true,
@@ -3340,10 +4073,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1000
     },
     "muecke": {
+      "northernHemisphere": "Juni bis September",
       "name": "Mücke",
       "active": [
         true,
@@ -3373,9 +4108,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "17 - 4 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 130
     },
     "hyalessa-zikade": {
+      "northernHemisphere": "Juli bis August",
       "name": "Hyalessa-Zikade",
       "active": [
         false,
@@ -3405,9 +4142,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 300
     },
     "japan-schillerfalter": {
+      "northernHemisphere": "Mai bis August",
       "name": "Japan-Schillerfalter",
       "active": [
         false,
@@ -3437,9 +4176,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 9 Uhr",
+      "southernHemisphere": "November bis Februar",
       "value": 300
     },
     "stabschrecke": {
+      "northernHemisphere": "Juli bis November",
       "name": "Stabschrecke",
       "active": [
         false,
@@ -3469,9 +4210,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "4 - 8 Uhr und 17 - 19 Uhr",
+      "southernHemisphere": "Januar bis Mai",
       "value": 600
     },
     "zitronenfalter": {
+      "northernHemisphere": "März bis Juni und September bis Oktober",
       "name": "Zitronenfalter",
       "active": [
         false,
@@ -3501,9 +4244,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
+      "southernHemisphere": "März bis April und September bis Dezember",
       "value": 160
     },
     "kohlweissling": {
+      "northernHemisphere": "September bis Juni",
       "name": "Kohlweißling",
       "active": [
         false,
@@ -3533,9 +4278,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
+      "southernHemisphere": "März bis Dezember",
       "value": 160
     },
     "hai": {
+      "northernHemisphere": "Juni bis September",
       "name": "Hai",
       "active": [
         true,
@@ -3565,9 +4312,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 15000
     },
     "grosse-riesenmuschel": {
+      "northernHemisphere": "Mai bis September",
       "name": "Große Riesenmuschel",
       "active": [
         true,
@@ -3596,10 +4345,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis März",
       "value": 15000
     },
     "frosch": {
+      "northernHemisphere": "Mai bis August",
       "name": "Frosch",
       "active": [
         true,
@@ -3628,10 +4379,12 @@
         true
       ],
       "location": "Teich",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis Februar",
       "value": 120
     },
     "seeigel": {
+      "northernHemisphere": "Mai bis September",
       "name": "Seeigel",
       "active": [
         true,
@@ -3660,10 +4413,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis März",
       "value": 1700
     },
     "kampffisch": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Kampffisch",
       "active": [
         false,
@@ -3693,9 +4448,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 2500
     },
     "japan-rosenkaefer": {
+      "northernHemisphere": "Juni bis August",
       "name": "Japan-Rosenkäfer",
       "active": [
         true,
@@ -3724,10 +4481,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Februar",
       "value": 200
     },
     "piranha": {
+      "northernHemisphere": "Juni bis September",
       "name": "Piranha",
       "active": [
         true,
@@ -3757,9 +4516,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr und 20 - 4 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 2500
     },
     "atlasspinner": {
+      "northernHemisphere": "April bis September",
       "name": "Atlasspinner",
       "active": [
         true,
@@ -3789,9 +4550,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "Oktober bis März",
       "value": 3000
     },
     "wespe": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Wespe",
       "active": [
         true,
@@ -3820,10 +4583,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 2500
     },
     "regenbogenfalter": {
+      "northernHemisphere": "April bis September",
       "name": "Regenbogenfalter",
       "active": [
         false,
@@ -3853,9 +4618,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 16 Uhr",
+      "southernHemisphere": "Oktober bis März",
       "value": 2500
     },
     "bitterling": {
+      "northernHemisphere": "November bis März",
       "name": "Bitterling",
       "active": [
         true,
@@ -3884,10 +4651,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis September",
       "value": 900
     },
     "honigbiene": {
+      "northernHemisphere": "März bis Juli",
       "name": "Honigbiene",
       "active": [
         false,
@@ -3917,9 +4686,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "September bis Januar",
       "value": 200
     },
     "blattschrecke": {
+      "northernHemisphere": "Juli bis September",
       "name": "Blattschrecke",
       "active": [
         true,
@@ -3948,10 +4719,12 @@
         true
       ],
       "location": "Tarnung als Möbelstück auf dem Boden",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Februar",
       "value": 600
     },
     "karpfen": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Karpfen",
       "active": [
         true,
@@ -3980,10 +4753,12 @@
         true
       ],
       "location": "Teich",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 300
     },
     "hummer": {
+      "northernHemisphere": "April bis Juni und Dezember bis Januar",
       "name": "Hummer",
       "active": [
         true,
@@ -4012,10 +4787,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis Juli und Oktober bis Dezember",
       "value": 4500
     },
     "monarchfalter": {
+      "northernHemisphere": "September bis November",
       "name": "Monarchfalter",
       "active": [
         false,
@@ -4045,9 +4822,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "März bis Mai",
       "value": 140
     },
     "flusskrebs": {
+      "northernHemisphere": "April bis September",
       "name": "Flusskrebs",
       "active": [
         true,
@@ -4077,9 +4856,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Oktober bis März",
       "value": 200
     },
     "prachtkaefer": {
+      "northernHemisphere": "April bis August",
       "name": "Prachtkäfer",
       "active": [
         true,
@@ -4108,10 +4889,12 @@
         true
       ],
       "location": "Baumstumpf",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Februar",
       "value": 2400
     },
     "weichschildkroete": {
+      "northernHemisphere": "August bis September",
       "name": "Weichschildkröte",
       "active": [
         true,
@@ -4141,9 +4924,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Februar bis März",
       "value": 3750
     },
     "schwalbenschwanz": {
+      "northernHemisphere": "März bis September",
       "name": "Schwalbenschwanz",
       "active": [
         false,
@@ -4173,9 +4958,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
+      "southernHemisphere": "September bis März",
       "value": 240
     },
     "grashuepfer": {
+      "northernHemisphere": "Juli bis September",
       "name": "Grashüpfer",
       "active": [
         false,
@@ -4205,9 +4992,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Januar bis März",
       "value": 160
     },
     "koi-karpfen": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Koi-Karpfen",
       "active": [
         true,
@@ -4237,9 +5026,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 4000
     },
     "saegehai": {
+      "northernHemisphere": "Juni bis September",
       "name": "Sägehai",
       "active": [
         true,
@@ -4269,9 +5060,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 12000
     },
     "fliege": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Fliege",
       "active": [
         true,
@@ -4300,10 +5093,12 @@
         true
       ],
       "location": "Müll",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 60
     },
     "schiffshalter": {
+      "northernHemisphere": "Juni bis September",
       "name": "Schiffshalter",
       "active": [
         true,
@@ -4332,10 +5127,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis März",
       "value": 1500
     },
     "geigenkaefer": {
+      "northernHemisphere": "Mai bis Juni und September bis November",
       "name": "Geigenkäfer",
       "active": [
         true,
@@ -4364,10 +5161,12 @@
         true
       ],
       "location": "Baumstumpf",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis Mai und November bis Dezember",
       "value": 450
     },
     "walhai": {
+      "northernHemisphere": "Juni bis September",
       "name": "Walhai",
       "active": [
         true,
@@ -4396,10 +5195,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis März",
       "value": 13000
     },
     "perlmuschel": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Perlmuschel",
       "active": [
         true,
@@ -4428,10 +5229,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 2800
     },
     "seeschwein": {
+      "northernHemisphere": "November bis Februar",
       "name": "Seeschwein",
       "active": [
         true,
@@ -4461,9 +5264,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Mai bis August",
       "value": 10000
     },
     "sardelle": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Sardelle",
       "active": [
         false,
@@ -4493,9 +5298,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 200
     },
     "vogelfalter": {
+      "northernHemisphere": "Mai bis September",
       "name": "Vogelfalter",
       "active": [
         false,
@@ -4525,9 +5332,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 16 Uhr",
+      "southernHemisphere": "November bis März",
       "value": 4000
     },
     "tilapia": {
+      "northernHemisphere": "Juni bis Oktober",
       "name": "Tilapia",
       "active": [
         true,
@@ -4556,10 +5365,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis April",
       "value": 800
     },
     "atlaskaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Atlaskäfer",
       "active": [
         true,
@@ -4589,9 +5400,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 8000
     },
     "lachs": {
+      "northernHemisphere": "September",
       "name": "Lachs",
       "active": [
         true,
@@ -4620,10 +5433,12 @@
         true
       ],
       "location": "Flussmündung",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März",
       "value": 700
     },
     "seebarsch": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Seebarsch",
       "active": [
         true,
@@ -4652,10 +5467,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 400
     },
     "seestern": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Seestern",
       "active": [
         true,
@@ -4684,10 +5501,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 500
     },
     "gold-mistkaefer": {
+      "northernHemisphere": "Juli bis September",
       "name": "Gold-Mistkäfer",
       "active": [
         true,
@@ -4716,10 +5535,12 @@
         true
       ],
       "location": "Boden",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis März",
       "value": 3000
     },
     "agrias-falter": {
+      "northernHemisphere": "April bis September",
       "name": "Agrias-Falter",
       "active": [
         false,
@@ -4749,9 +5570,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Oktober bis März",
       "value": 3000
     },
     "goldfisch ": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Goldfisch ",
       "active": [
         true,
@@ -4780,10 +5603,12 @@
         true
       ],
       "location": "Teich",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1300
     },
     "himmelsfalter": {
+      "northernHemisphere": "Dezember bis März und Juni bis September",
       "name": "Himmelsfalter",
       "active": [
         true,
@@ -4813,9 +5638,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Juni bis September und Dezember bis März",
       "value": 4000
     },
     "pracht-hirschkaefer": {
+      "northernHemisphere": "Juni bis September",
       "name": "Pracht-Hirschkäfer",
       "active": [
         true,
@@ -4845,9 +5672,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "19 - 8 Uhr",
+      "southernHemisphere": "November bis Februar",
       "value": 6000
     },
     "regenschirm-oktopus": {
+      "northernHemisphere": "März bis Mai und September bis November",
       "name": "Regenschirm-Oktopus",
       "active": [
         true,
@@ -4876,10 +5705,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis Mai und September bis November",
       "value": 6000
     },
     "riesenwanze": {
+      "northernHemisphere": "April bis September",
       "name": "Riesenwanze",
       "active": [
         true,
@@ -4909,9 +5740,11 @@
       ],
       "location": "Wasser",
       "activeLiteral": "19 - 7 Uhr",
+      "southernHemisphere": "Oktober bis März",
       "value": 2000
     },
     "gazami-krabbe": {
+      "northernHemisphere": "Juni bis November",
       "name": "Gazami-Krabbe",
       "active": [
         true,
@@ -4940,10 +5773,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Mai",
       "value": 2200
     },
     "hasel": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Hasel",
       "active": [
         true,
@@ -4973,9 +5808,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 240
     },
     "guppy": {
+      "northernHemisphere": "April bis November",
       "name": "Guppy",
       "active": [
         false,
@@ -5005,9 +5842,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 1300
     },
     "leuchtkaefer": {
+      "northernHemisphere": "Juni",
       "name": "Leuchtkäfer",
       "active": [
         true,
@@ -5037,9 +5876,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "November",
       "value": 300
     },
     "bachschmerle": {
+      "northernHemisphere": "März bis Mai",
       "name": "Bachschmerle",
       "active": [
         true,
@@ -5068,10 +5909,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "September bis November",
       "value": 400
     },
     "auster": {
+      "northernHemisphere": "September bis Februar",
       "name": "Auster",
       "active": [
         true,
@@ -5100,10 +5943,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis August",
       "value": 1100
     },
     "floh": {
+      "northernHemisphere": "April bis September",
       "name": "Floh",
       "active": [
         true,
@@ -5132,10 +5977,12 @@
         true
       ],
       "location": "Auf Nachbarn",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 70
     },
     "weisse-baumnymphe": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Weiße Baumnymphe",
       "active": [
         false,
@@ -5165,9 +6012,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1000
     },
     "motte": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Motte",
       "active": [
         true,
@@ -5197,9 +6046,11 @@
       ],
       "location": "Nähe von Licht",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 130
     },
     "kaiserschnapper": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Kaiserschnapper",
       "active": [
         true,
@@ -5228,10 +6079,12 @@
         true
       ],
       "location": "Meer ",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 3000
     },
     "quastenflosser": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Quastenflosser",
       "active": [
         true,
@@ -5260,10 +6113,12 @@
         true
       ],
       "location": "Meer bei Regen",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 15000
     },
     "ayu": {
+      "northernHemisphere": "Juli bis September",
       "name": "Ayu",
       "active": [
         true,
@@ -5292,10 +6147,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis März",
       "value": 900
     },
     "lachssalmler": {
+      "northernHemisphere": "Juni bis September",
       "name": "Lachssalmler",
       "active": [
         false,
@@ -5325,9 +6182,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 15000
     },
     "abendzikade": {
+      "northernHemisphere": "Juli bis August",
       "name": "Abendzikade",
       "active": [
         false,
@@ -5357,9 +6216,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 8 Uhr und 16 - 19 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 550
     },
     "saibling ": {
+      "northernHemisphere": "März bis Juni und September bis November",
       "name": "Saibling ",
       "active": [
         true,
@@ -5389,9 +6250,11 @@
       ],
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "September bis Dezember und März bis Mai",
       "value": 3800
     },
     "nasenschrecke": {
+      "northernHemisphere": "April bis November",
       "name": "Nasenschrecke",
       "active": [
         false,
@@ -5421,9 +6284,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 200
     },
     "arowana": {
+      "northernHemisphere": "Juni bis September",
       "name": "Arowana",
       "active": [
         true,
@@ -5453,9 +6318,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 10000
     },
     "glaskopffisch": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Glaskopffisch",
       "active": [
         true,
@@ -5485,9 +6352,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 15000
     },
     "flussbarsch": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Flussbarsch",
       "active": [
         true,
@@ -5516,10 +6385,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 300
     },
     "meerstrudelwurm": {
+      "northernHemisphere": "August bis September",
       "name": "Meerstrudelwurm",
       "active": [
         true,
@@ -5549,9 +6420,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Februar bis März",
       "value": 700
     },
     "blauruesselkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Blaurüsselkäfer",
       "active": [
         true,
@@ -5580,10 +6453,12 @@
         true
       ],
       "location": "Baumstumpf",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis Februar",
       "value": 800
     },
     "allotups-rosenbergi": {
+      "northernHemisphere": "Juli bis August",
       "name": "Allotups rosenbergi",
       "active": [
         true,
@@ -5613,9 +6488,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 12000
     },
     "masulachs": {
+      "northernHemisphere": "März bis Juni und September bis November",
       "name": "Masulachs",
       "active": [
         true,
@@ -5645,9 +6522,11 @@
       ],
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "September bis Dezember und März bis Mai",
       "value": 1000
     },
     "seepferdchen": {
+      "northernHemisphere": "April bis November",
       "name": "Seepferdchen",
       "active": [
         true,
@@ -5676,10 +6555,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 1100
     },
     "mistkaefer": {
+      "northernHemisphere": "Dezember bis Februar",
       "name": "Mistkäfer",
       "active": [
         true,
@@ -5708,10 +6589,12 @@
         true
       ],
       "location": "Boden",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis Juli",
       "value": 300
     },
     "goldskarabaeus": {
+      "northernHemisphere": "Juli bis August",
       "name": "Goldskarabäus",
       "active": [
         true,
@@ -5741,9 +6624,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "23 - 8 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 10000
     },
     "gesichtswanze": {
+      "northernHemisphere": "März bis Oktober",
       "name": "Gesichtswanze",
       "active": [
         true,
@@ -5773,9 +6658,11 @@
       ],
       "location": "Blumen",
       "activeLiteral": "19 - 8 Uhr",
+      "southernHemisphere": "September bis April",
       "value": 1000
     },
     "kriechsprossalge": {
+      "northernHemisphere": "Juni bis September",
       "name": "Kriechsprossalge",
       "active": [
         true,
@@ -5804,10 +6691,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis März",
       "value": 900
     },
     "oktopus": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Oktopus",
       "active": [
         true,
@@ -5836,10 +6725,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1200
     },
     "rochen": {
+      "northernHemisphere": "August bis November",
       "name": "Rochen",
       "active": [
         false,
@@ -5869,9 +6760,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "Februar bis Mai",
       "value": 3000
     },
     "katzenwels": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Katzenwels",
       "active": [
         false,
@@ -5901,9 +6794,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "6 - 9 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 800
     },
     "miesmuschel": {
+      "northernHemisphere": "Juni bis Dezember",
       "name": "Miesmuschel",
       "active": [
         true,
@@ -5932,10 +6827,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Juni",
       "value": 1500
     },
     "riemenfisch": {
+      "northernHemisphere": "Dezember bis Mai",
       "name": "Riemenfisch",
       "active": [
         true,
@@ -5964,10 +6861,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis November",
       "value": 9000
     },
     "schwimmkaefer": {
+      "northernHemisphere": "Mai bis September",
       "name": "Schwimmkäfer",
       "active": [
         false,
@@ -5997,9 +6896,11 @@
       ],
       "location": "Wasser",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "November bis März",
       "value": 800
     },
     "flussgrundel": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Flussgrundel",
       "active": [
         true,
@@ -6029,9 +6930,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 400
     },
     "pazifik-taschenkrebs": {
+      "northernHemisphere": "November bis Mai",
       "name": "Pazifik-Taschenkrebs",
       "active": [
         true,
@@ -6060,10 +6963,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis November",
       "value": 1900
     },
     "stint": {
+      "northernHemisphere": "Dezember bis Februar",
       "name": "Stint",
       "active": [
         true,
@@ -6092,10 +6997,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis August",
       "value": 400
     },
     "makrele": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Makrele",
       "active": [
         true,
@@ -6124,10 +7031,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 150
     },
     "wasserjungfer": {
+      "northernHemisphere": "November bis Februar",
       "name": "Wasserjungfer",
       "active": [
         true,
@@ -6156,10 +7065,12 @@
         true
       ],
       "location": "Luft",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis August",
       "value": 500
     },
     "arapaima": {
+      "northernHemisphere": "Juni bis September",
       "name": "Arapaima",
       "active": [
         true,
@@ -6189,9 +7100,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 10000
     },
     "stachelmakrele": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Stachelmakrele",
       "active": [
         true,
@@ -6220,10 +7133,12 @@
         true
       ],
       "location": "Steg",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis April",
       "value": 4500
     },
     "einsiedlerkrebs": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Einsiedlerkrebs",
       "active": [
         true,
@@ -6253,9 +7168,11 @@
       ],
       "location": "Strand",
       "activeLiteral": "19 - 8 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1000
     },
     "cyclommantus": {
+      "northernHemisphere": "Juli bis August",
       "name": "Cyclommantus",
       "active": [
         true,
@@ -6285,9 +7202,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "19 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 8000
     },
     "ritterfalter": {
+      "northernHemisphere": "März bis Juni",
       "name": "Ritterfalter",
       "active": [
         false,
@@ -6317,9 +7236,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
+      "southernHemisphere": "September bis Dezember",
       "value": 2500
     },
     "wasserlaeufer": {
+      "northernHemisphere": "Mai bis September",
       "name": "Wasserläufer",
       "active": [
         false,
@@ -6349,9 +7270,11 @@
       ],
       "location": "Wasser",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "November bis März",
       "value": 130
     },
     "floesselhecht": {
+      "northernHemisphere": "Juni bis September",
       "name": "Flösselhecht",
       "active": [
         true,
@@ -6381,9 +7304,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 4000
     },
     "neonsalmer": {
+      "northernHemisphere": "April bis November",
       "name": "Neonsalmer",
       "active": [
         false,
@@ -6413,9 +7338,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 500
     },
     "flunder": {
+      "northernHemisphere": "Oktober bis April",
       "name": "Flunder",
       "active": [
         true,
@@ -6444,10 +7371,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "April bis Oktober",
       "value": 800
     },
     "pfeilschwanzkrebs": {
+      "northernHemisphere": "Juli bis September",
       "name": "Pfeilschwanzkrebs",
       "active": [
         true,
@@ -6477,9 +7406,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "Januar bis März",
       "value": 2500
     },
     "hecht": {
+      "northernHemisphere": "September bis Dezember",
       "name": "Hecht",
       "active": [
         true,
@@ -6508,10 +7439,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis Juni",
       "value": 1800
     },
     "seeohr": {
+      "northernHemisphere": "Juni bis Januar",
       "name": "Seeohr",
       "active": [
         true,
@@ -6541,9 +7474,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis Juli",
       "value": 2000
     },
     "roehrenaal": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Röhrenaal",
       "active": [
         false,
@@ -6573,9 +7508,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 1100
     },
     "grille": {
+      "northernHemisphere": "September bis November",
       "name": "Grille",
       "active": [
         true,
@@ -6605,9 +7542,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "März bis Mai",
       "value": 130
     },
     "goliathkaefer": {
+      "northernHemisphere": "Juni bis September",
       "name": "Goliathkäfer",
       "active": [
         true,
@@ -6637,9 +7576,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "November bis Februar",
       "value": 8000
     },
     "wanderschrecke": {
+      "northernHemisphere": "April bis November",
       "name": "Wanderschrecke",
       "active": [
         false,
@@ -6669,9 +7610,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "Februar bis Mai",
       "value": 600
     },
     "anemomenfisch": {
+      "northernHemisphere": "April bis November",
       "name": "Anemomenfisch",
       "active": [
         true,
@@ -6700,10 +7643,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 650
     },
     "muraene": {
+      "northernHemisphere": "August bis Oktober",
       "name": "Muräne",
       "active": [
         true,
@@ -6732,10 +7677,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Februar bis April",
       "value": 2000
     },
     "bergzikade": {
+      "northernHemisphere": "August bis September",
       "name": "Bergzikade",
       "active": [
         false,
@@ -6765,9 +7712,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Februar bis März",
       "value": 400
     },
     "zikadenlarvenhaut": {
+      "northernHemisphere": "Juli bis August",
       "name": "Zikadenlarvenhaut",
       "active": [
         true,
@@ -6796,10 +7745,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis Februar",
       "value": 10
     },
     "ameise": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Ameise",
       "active": [
         true,
@@ -6828,10 +7779,12 @@
         true
       ],
       "location": "Verrottete Früchte",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 80
     },
     "riesenzikade": {
+      "northernHemisphere": "Juli bis August",
       "name": "Riesenzikade",
       "active": [
         false,
@@ -6861,9 +7814,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 500
     },
     "maulwurfsgrille": {
+      "northernHemisphere": "November bis Mai",
       "name": "Maulwurfsgrille",
       "active": [
         true,
@@ -6892,10 +7847,12 @@
         true
       ],
       "location": "In der Erde",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis November",
       "value": 500
     },
     "seepocke": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Seepocke",
       "active": [
         true,
@@ -6924,10 +7881,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 600
     },
     "riesen-hirschkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Riesen-Hirschkäfer",
       "active": [
         true,
@@ -6957,9 +7916,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "23 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 10000
     },
     "saugbarbe": {
+      "northernHemisphere": "Mai bis September",
       "name": "Saugbarbe",
       "active": [
         false,
@@ -6989,9 +7950,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "November bis März",
       "value": 1500
     },
     "wakame-alge": {
+      "northernHemisphere": "Oktober bis Juli",
       "name": "Wakame-Alge",
       "active": [
         true,
@@ -7020,10 +7983,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "April bis Januar",
       "value": 600
     },
     "heuschrecke": {
+      "northernHemisphere": "August bis November",
       "name": "Heuschrecke",
       "active": [
         false,
@@ -7053,9 +8018,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "Februar bis Mai",
       "value": 400
     },
     "teleskopauge": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Teleskopauge",
       "active": [
         false,
@@ -7085,9 +8052,11 @@
       ],
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 1300
     },
     "quelljungfer": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Quelljungfer",
       "active": [
         false,
@@ -7117,9 +8086,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 4500
     },
     "thunfisch": {
+      "northernHemisphere": "November bis April",
       "name": "Thunfisch",
       "active": [
         true,
@@ -7148,10 +8119,12 @@
         true
       ],
       "location": "Steg",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis Oktober",
       "value": 7000
     },
     "fichtenbock": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Fichtenbock",
       "active": [
         true,
@@ -7180,10 +8153,12 @@
         true
       ],
       "location": "Baumstumpf",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 350
     },
     "ligia-exotica": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Ligia exotica",
       "active": [
         true,
@@ -7212,10 +8187,12 @@
         true
       ],
       "location": "Strandfelsen",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 200
     },
     "sandlaufkaefer": {
+      "northernHemisphere": "Februar bis Oktober",
       "name": "Sandlaufkäfer",
       "active": [
         true,
@@ -7244,10 +8221,12 @@
         true
       ],
       "location": "Boden",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "August bis April",
       "value": 1500
     },
     "hundertfuesser": {
+      "northernHemisphere": "September bis Juni",
       "name": "Hundertfüßer",
       "active": [
         false,
@@ -7277,9 +8256,11 @@
       ],
       "location": "Steine",
       "activeLiteral": "16 - 23 Uhr",
+      "southernHemisphere": "März bis Dezember",
       "value": 300
     },
     "skalar": {
+      "northernHemisphere": "Mai bis Oktober",
       "name": "Skalar",
       "active": [
         true,
@@ -7309,9 +8290,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "November bis April",
       "value": 3000
     },
     "leuchtkalmar": {
+      "northernHemisphere": "März bis Juni",
       "name": "Leuchtkalmar",
       "active": [
         true,
@@ -7341,9 +8324,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "September bis Dezember",
       "value": 1400
     },
     "mondfisch": {
+      "northernHemisphere": "Juli bis September",
       "name": "Mondfisch",
       "active": [
         false,
@@ -7373,9 +8358,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "Januar bis März",
       "value": 4000
     },
     "alpenbock": {
+      "northernHemisphere": "Mai bis September",
       "name": "Alpenbock",
       "active": [
         true,
@@ -7404,10 +8391,12 @@
         true
       ],
       "location": "Baumstumpf",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "November bis März",
       "value": 3000
     },
     "karausche": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Karausche",
       "active": [
         true,
@@ -7436,10 +8425,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 160
     },
     "gottesanbeterin": {
+      "northernHemisphere": "März bis November",
       "name": "Gottesanbeterin",
       "active": [
         false,
@@ -7469,9 +8460,11 @@
       ],
       "location": "Blumen",
       "activeLiteral": "8 - 16 Uhr",
+      "southernHemisphere": "September bis Mai",
       "value": 430
     },
     "saegezahn-hirschkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Sägezahn-Hirschkäfer",
       "active": [
         true,
@@ -7500,10 +8493,12 @@
         true
       ],
       "location": "Bäume",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 2000
     },
     "igelfisch": {
+      "northernHemisphere": "Juli bis September",
       "name": "Igelfisch",
       "active": [
         true,
@@ -7532,10 +8527,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Januar bis März",
       "value": 250
     },
     "stinkwanze": {
+      "northernHemisphere": "März bis Oktober",
       "name": "Stinkwanze",
       "active": [
         true,
@@ -7564,10 +8561,12 @@
         true
       ],
       "location": "Blumen",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "September bis April",
       "value": 120
     },
     "kugelfisch": {
+      "northernHemisphere": "November bis Februar",
       "name": "Kugelfisch",
       "active": [
         true,
@@ -7597,9 +8596,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "Mai bis August",
       "value": 5000
     },
     "stoer": {
+      "northernHemisphere": "September bis März",
       "name": "Stör",
       "active": [
         true,
@@ -7628,10 +8629,12 @@
         true
       ],
       "location": "Flussmündung",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "März bis September",
       "value": 10000
     },
     "herkuleskaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Herkuleskäfer",
       "active": [
         true,
@@ -7661,9 +8664,11 @@
       ],
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 12000
     },
     "braunzikade": {
+      "northernHemisphere": "Juli bis August",
       "name": "Braunzikade",
       "active": [
         false,
@@ -7693,9 +8698,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 250
     },
     "spinne": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Spinne",
       "active": [
         true,
@@ -7725,9 +8732,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "19 - 8 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 600
     },
     "hammerhai": {
+      "northernHemisphere": "Juni bis September",
       "name": "Hammerhai",
       "active": [
         true,
@@ -7757,9 +8766,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "Dezember bis März",
       "value": 8000
     },
     "nacktkiemer": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Nacktkiemer",
       "active": [
         true,
@@ -7788,10 +8799,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 600
     },
     "barsch": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Barsch",
       "active": [
         true,
@@ -7820,10 +8833,12 @@
         true
       ],
       "location": "Fluss",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "das ganze Jahr",
       "value": 400
     },
     "napoleanfisch": {
+      "northernHemisphere": "Juli bis August",
       "name": "Napoleanfisch",
       "active": [
         false,
@@ -7853,9 +8868,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
+      "southernHemisphere": "Januar bis Februar",
       "value": 10000
     },
     "kalmar": {
+      "northernHemisphere": "Dezember bis August",
       "name": "Kalmar",
       "active": [
         true,
@@ -7884,10 +8901,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis Februar",
       "value": 500
     },
     "kilifisch": {
+      "northernHemisphere": "April bis August",
       "name": "Kilifisch",
       "active": [
         true,
@@ -7916,10 +8935,12 @@
         true
       ],
       "location": "Teich",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Februar",
       "value": 300
     },
     "marienkaefer": {
+      "northernHemisphere": "März bis Juni und Oktober",
       "name": "Marienkäfer",
       "active": [
         false,
@@ -7949,9 +8970,11 @@
       ],
       "location": "Blumen",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "April und September bis Dezember",
       "value": 200
     },
     "kolibrifalter": {
+      "northernHemisphere": "April bis August",
       "name": "Kolibrifalter",
       "active": [
         false,
@@ -7981,9 +9004,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
+      "southernHemisphere": "Oktober bis Februar",
       "value": 300
     },
     "nashornkaefer": {
+      "northernHemisphere": "Juli bis August",
       "name": "Nashornkäfer",
       "active": [
         true,
@@ -8013,9 +9038,11 @@
       ],
       "location": "Bäume",
       "activeLiteral": "17 - 8 Uhr",
+      "southernHemisphere": "Dezember bis Januar",
       "value": 1350
     },
     "botan-garnele": {
+      "northernHemisphere": "September bis Februar",
       "name": "Botan-Garnele",
       "active": [
         true,
@@ -8045,9 +9072,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "März bis August",
       "value": 1400
     },
     "rotfeuerfisch": {
+      "northernHemisphere": "April bis November",
       "name": "Rotfeuerfisch",
       "active": [
         true,
@@ -8076,10 +9105,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Mai",
       "value": 500
     },
     "koenigslibelle": {
+      "northernHemisphere": "April bis Oktober",
       "name": "Königslibelle",
       "active": [
         false,
@@ -8109,9 +9140,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
+      "southernHemisphere": "Oktober bis April",
       "value": 230
     },
     "giesskannenschwamm": {
+      "northernHemisphere": "Oktober bis Februar",
       "name": "Gießkannenschwamm",
       "active": [
         true,
@@ -8140,10 +9173,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "April bis August",
       "value": 5000
     },
     "fangschreckenkrebs": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Fangschreckenkrebs",
       "active": [
         true,
@@ -8173,9 +9208,11 @@
       ],
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 2500
     },
     "seeananas": {
+      "northernHemisphere": "April bis August",
       "name": "Seeananas",
       "active": [
         true,
@@ -8204,10 +9241,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Oktober bis Februar",
       "value": 1500
     },
     "vogelspinne": {
+      "northernHemisphere": "November bis April",
       "name": "Vogelspinne",
       "active": [
         true,
@@ -8237,9 +9276,11 @@
       ],
       "location": "Boden",
       "activeLiteral": "19 - 4 Uhr",
+      "southernHemisphere": "Mai bis Oktober",
       "value": 8000
     },
     "feuerlibelle": {
+      "northernHemisphere": "September bis Oktober",
       "name": "Feuerlibelle",
       "active": [
         false,
@@ -8269,9 +9310,11 @@
       ],
       "location": "Luft",
       "activeLiteral": "8 - 19 Uhr",
+      "southernHemisphere": "März bis April",
       "value": 180
     },
     "kugelassel": {
+      "northernHemisphere": "September bis Juni",
       "name": "Kugelassel",
       "active": [
         true,
@@ -8301,9 +9344,11 @@
       ],
       "location": "Steine",
       "activeLiteral": "23 - 16 Uhr",
+      "southernHemisphere": "März bis Dezember",
       "value": 250
     },
     "see-engel": {
+      "northernHemisphere": "Dezember bis März",
       "name": "See-Engel",
       "active": [
         true,
@@ -8332,10 +9377,12 @@
         true
       ],
       "location": "Meer",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Juni bis September",
       "value": 1000
     },
     "doebel": {
+      "northernHemisphere": "das ganze Jahr",
       "name": "Döbel",
       "active": [
         false,
@@ -8365,9 +9412,11 @@
       ],
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
+      "southernHemisphere": "das ganze Jahr",
       "value": 200
     },
     "marlin": {
+      "northernHemisphere": "November bis April und Juli bis September",
       "name": "Marlin",
       "active": [
         true,
@@ -8396,7 +9445,8 @@
         true
       ],
       "location": "Steg",
-      "activeLiteral": "Den ganzen Tag",
+      "activeLiteral": "den ganzen Tag",
+      "southernHemisphere": "Mai bis Oktober und Januar bis März",
       "value": 10000
     }
   }

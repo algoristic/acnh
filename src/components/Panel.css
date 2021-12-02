@@ -15,11 +15,22 @@
     font-size: 1.25rem;
     border-top-left-radius: var(--panel-border-radius);
     border-top-right-radius: var(--panel-border-radius);
+    cursor: pointer;
+}
+.panel.collapsed .panel-header {
+    border-bottom-left-radius: var(--panel-border-radius);
+    border-bottom-right-radius: var(--panel-border-radius);
 }
 .panel .panel-header .header-icon {
     margin-right: .5rem;
 }
+.panel .panel-header .panel-toggle {
+    float: right;
+}
 .panel .panel-body {
     border-radius: var(--panel-border-radius);
     background: rgba(255, 255, 255, .33);
+}
+.panel.collapsed .panel-body {
+    display: none;
 }
