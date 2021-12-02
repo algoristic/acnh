@@ -7,7 +7,7 @@ export default ({ animal, color }) => {
         <Hemisphere.Consumer>
         {({ hemisphere }) => {
             return (
-                <section className='animal' style={{ background: color }}>
+                <section className='animal col-12 col-md-6' style={{ background: color }}>
                     <header className='animal-header'>
                         <span className='animal-name'>{animal.name}</span>
                         <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>

@@ -4,9 +4,10 @@
     border-width: 0;
     border-style: solid;
     margin: 0 auto;
-    max-width: 768px;
 }
-.panel .panel-header,
+.panel .panel-header {
+    padding: .75rem .5rem;
+}
 .panel .panel-body {
     padding: .25rem .5rem;
 }
