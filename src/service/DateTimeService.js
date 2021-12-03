@@ -1,8 +1,13 @@
 class DateTimeService {
     constructor() {
         this.now = new Date();
+        this.day = (this.now.getDate());
         this.month = (1 + this.now.getMonth()).toString();
         this.hour = (this.now.getHours());
+    }
+
+    getMonthName() {
+        return this.now.toLocaleString('de-DE', { month: 'long' });
     }
 
     getMillisRemaining() {

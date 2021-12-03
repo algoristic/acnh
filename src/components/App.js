@@ -64,15 +64,14 @@ export default class App extends Component {
         this.updateSort(newSort);
     }
 
-    setHemisphere(hemisphere) {
-        const oldHemisphere = this.state.hemisphere;
+    setHemisphere(newHemisphere) {
+        const { sort } = this.state;
         this.setState({
-            hemisphere: hemisphere,
-            animalService: new AnimalService(hemisphere)
+            hemisphere: newHemisphere,
+            animalService: new AnimalService(newHemisphere, sort)
         });
-        this.storage.setHemisphere(hemisphere);
+        this.storage.setHemisphere(newHemisphere);
         this.refresh();
-        console.log(`Switch hemisphere, old=${oldHemisphere} new=${hemisphere}`);
     }
 
     refresh() {
@@ -95,7 +94,7 @@ export default class App extends Component {
                             setSortOrder: this.setSortOrder,
                             sort: sort
                         }}>
-                        <SettingsBar />
+                        <SettingsBar dateTime={dateTimeService} />
                     </Update.Provider>
                     <InsectsPanel animals={animalService}
                         month={dateTimeService.month}

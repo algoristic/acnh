@@ -6,14 +6,17 @@
     color: #f1faee;
 }
 .settings-bar {
-    font-weight: bold;
     display: flex;
     justify-content: space-between;
     padding-top: .5rem;
     padding-bottom: .5rem;
 }
 .settings-bar .app-name {
-    font-size: 1.5rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.settings-bar .app-date-time {
+    font-size: .85rem;
 }
 .settings-bar .menu-toggle {
     cursor: pointer;
@@ -30,4 +33,6 @@
     justify-content: flex-end;
     flex-direction: column;
     padding-bottom: .5rem;
+    padding-top: .75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.33);
 }

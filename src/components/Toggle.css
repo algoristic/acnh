@@ -1,6 +1,6 @@
 .settings-wrapper {
     text-align: right;
-    padding-bottom: .33rem;
+    margin-bottom: .33rem;
 }
 .settings-toggle {
     border-radius: var(--panel-border-radius);

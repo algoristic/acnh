@@ -30,10 +30,15 @@ export default class SettingsBar extends Component {
         } else {
             button = <Toggle click={this.toggle} icon={'⨉'} />;
         }
+        const month = this.props.dateTime.getMonthName();
+        const { day, hour } = this.props.dateTime;
         return (
             <div className={'settings-bar-wrapper' + (collapsed ? ' settings-collapse' : '')}>
                 <div className='settings-bar container-fluid'>
-                    <span className='app-name'>CrossingCalendar 📅</span>
+                    <div className='app-info-wrapper'>
+                        <div className='app-name'>CrossingCalendar</div>
+                        <div className='app-date-time'>{ day }. { month } 📅 { hour } Uhr</div>
+                    </div>
                     { button }
                 </div>
                 <div className='settings-bar-content container-fluid'>
