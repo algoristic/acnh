@@ -25,13 +25,17 @@ export default class SettingsBar extends Component {
 
     render() {
         const { collapsed } = this.state;
+        let button;
+        if(collapsed) {
+            button = <Toggle click={this.toggle} icon={'≡'} />;
+        } else {
+            button = <Toggle click={this.toggle} icon={'⨉'} />;
+        }
         return (
             <div className={'settings-bar-wrapper' + (collapsed ? ' settings-collapse' : '')}>
                 <div className='settings-bar container-fluid'>
                     <span className='app-name'>AC:NH📅<sub>v1.0.0</sub></span>
-                    <button className='menu-toggle' onClick={this.toggle}>
-                        <span className='toggle-icon'>≡</span>
-                    </button>
+                    { button }
                 </div>
                 <div className='settings-bar-content container-fluid'>
                     <Hemisphere.Consumer>
