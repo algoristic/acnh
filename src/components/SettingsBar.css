@@ -1,22 +1,29 @@
-.settings-bar {
-    background: #ced4da;
+.settings-bar-wrapper.settings-collapse .settings-bar-content {
+    display: none;
+}
+.settings-bar-wrapper {
+    background: #03071e;
     color: #f1faee;
+}
+.settings-bar {
     font-weight: bold;
     display: flex;
-    justify-content: flex-end;
-    padding: .75rem .5rem;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
-.hemisphere-toggle {
-    border-radius: var(--panel-border-radius);
-    background: rgba(0, 0, 0, .33);
-    border: .15rem solid rgba(0, 0, 0, .1);
-    padding: .25rem .5rem;
+.settings-bar .menu-toggle {
     cursor: pointer;
+    background: rgba(0, 0, 0, 0);
+    border-radius: var(--panel-border-radius);
+    padding: .25rem .5rem;
+    font-weight: bold;
+    color: inherit;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, .25);
 }
-.hemisphere-toggle:active {
-    background: rgba(0, 0, 0, .5);
-}
-
-.hemisphere-toggle .hemisphere-name {
-    margin-right: .5rem;
+.settings-bar-wrapper .settings-bar-content {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: .5rem;
 }

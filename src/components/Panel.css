@@ -1,6 +1,5 @@
 .panel {
     color: white;
-    /*border-radius: var(--panel-border-radius);*/
     border-width: 0;
     border-style: solid;
     margin: 0 auto;
@@ -30,7 +29,6 @@
 }
 .panel .panel-body {
     border-radius: var(--panel-border-radius);
-    background: rgba(255, 255, 255, .33);
 }
 .panel.collapsed .panel-body {
     display: none;

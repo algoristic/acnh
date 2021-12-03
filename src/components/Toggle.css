@@ -1,0 +1,15 @@
+.settings-toggle {
+    border-radius: var(--panel-border-radius);
+    background: rgba(255, 255, 255, .33);
+    border: .15rem solid rgba(0, 0, 0, .1);
+    padding: .25rem .5rem;
+    cursor: pointer;
+    display: inline-block;
+}
+.settings-toggle:active {
+    background: rgba(0, 0, 0, .5);
+}
+
+.settings-toggle .settings-name {
+    margin-right: .5rem;
+}
