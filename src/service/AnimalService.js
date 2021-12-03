@@ -1,18 +1,48 @@
 import DateTimeService from './DateTimeService'
 import data from '../assets/data.min.js'
 
-let maxValue = (a, b) => { return b.value - a.value };
+const sort = {
+    value: {
+        descending: (a, b) => { return b.value - a.value },
+        ascending: (a, b) => { return a.value - b.value }
+    },
+    alphabetic: {
+        descending: (a, b) => {
+            const nameA = a.name;
+            const nameB = b.name;
+            if(nameA < nameB) {
+                return 1;
+            }
+            if(nameA > nameB) {
+                return -1;
+            }
+            return 0;
+        },
+        ascending: (a, b) => {
+            const nameA = a.name;
+            const nameB = b.name;
+            if(nameA < nameB) {
+                return -1;
+            }
+            if(nameA > nameB) {
+                return 1;
+            }
+            return 0;
+        }
+    }
+};
 
 class AnimalService {
-    constructor(hemisphere) {
+    constructor(hemisphere, sort) {
         this.hemisphere = hemisphere;
+        this.sort = sort;
     }
 
     get(domain, month, hour) {
         return data[this.hemisphere][month][domain]
             .map(slug => data.animals[slug])
             .filter(animal => animal.active[hour])
-            .sort(maxValue);
+            .sort(sort[this.sort.property][this.sort.order]);
     }
 
     getNext(month, hour) {
@@ -31,7 +61,7 @@ class AnimalService {
                 }
                 return false;
             })
-            .sort(maxValue);
+            .sort(sort[this.sort.property][this.sort.order]);
         return all;
     }
 }

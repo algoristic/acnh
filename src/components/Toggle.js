@@ -1,10 +1,14 @@
 import './Toggle.css'
 
-export default ({ click, text, icon }) => {
+export default ({ className, click, text, icon }) => {
     return (
-        <div className='settings-toggle' onClick={() => click()}>
-            <span className='settings-name'>{ text }</span>
-            <span className='settings-icon'>{ icon }</span>
-        </div>
+        <span className={'settings-wrapper' + (className ? ` ${className}` : '')}>
+            <span className='settings-toggle' onClick={() => click()}>
+                {
+                    text && <span className='settings-name'>{ text }</span>
+                }
+                <span className='settings-icon'>{ icon }</span>
+            </span>
+        </span>
     );
 }

@@ -11,6 +11,22 @@ class PersistentStorage {
         this.storage.setItem(key, value);
     }
 
+    getSort() {
+        let sort = this.get('sort_order');
+        if(sort === null) {
+            sort = { property: 'value', order: 'descending' };
+            this.setSort(sort);
+            return sort;
+        }
+        sort = JSON.parse(sort);
+        return sort;
+    }
+
+    setSort(sort) {
+        sort = JSON.stringify(sort);
+        this.set('sort_order', sort);
+    }
+
     getPanel(key) {
         let state = this.get('panel_' + key);
         if(state === null) {

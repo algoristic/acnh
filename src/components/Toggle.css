@@ -1,3 +1,7 @@
+.settings-wrapper {
+    text-align: right;
+    padding-bottom: .33rem;
+}
 .settings-toggle {
     border-radius: var(--panel-border-radius);
     background: rgba(255, 255, 255, .33);
@@ -12,4 +16,7 @@
 
 .settings-toggle .settings-name {
     margin-right: .5rem;
+}
+.ml-33 {
+    margin-left: .33rem;
 }
