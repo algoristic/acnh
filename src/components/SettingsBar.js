@@ -34,7 +34,7 @@ export default class SettingsBar extends Component {
         return (
             <div className={'settings-bar-wrapper' + (collapsed ? ' settings-collapse' : '')}>
                 <div className='settings-bar container-fluid'>
-                    <span className='app-name'>AC:NH📅<sub>v1.0.0</sub></span>
+                    <span className='app-name'>CrossingCalendar 📅</span>
                     { button }
                 </div>
                 <div className='settings-bar-content container-fluid'>

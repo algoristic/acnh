@@ -9,7 +9,7 @@
         "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -180,7 +180,7 @@
         "giesskannenschwamm",
         "hummer",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -1230,7 +1230,7 @@
         "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -2038,7 +2038,7 @@
         "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -2143,7 +2143,7 @@
         "gazami-krabbe",
         "giesskannenschwamm",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -2238,7 +2238,7 @@
         "giesskannenschwamm",
         "hummer",
         "kammmuschel",
-        "langust",
+        "languste",
         "miesmuschel",
         "nacktkiemer",
         "oktopus",
@@ -2681,7 +2681,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "September bis Mai",
-      "value": 5000
+      "value": 5000,
+      "slug": "schnabelbarsch"
     },
     "goldforelle": {
       "northernHemisphere": "März bis Mai und September bis November",
@@ -2715,7 +2716,8 @@
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "September bis November und März bis Mai",
-      "value": 3800
+      "value": 3800,
+      "slug": "goldforelle"
     },
     "falterfisch": {
       "northernHemisphere": "April bis September",
@@ -2749,7 +2751,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis März",
-      "value": 1000
+      "value": 1000,
+      "slug": "falterfisch"
     },
     "ohrenqualle": {
       "northernHemisphere": "Juli bis September",
@@ -2783,7 +2786,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis Februar",
-      "value": 600
+      "value": 600,
+      "slug": "ohrenqualle"
     },
     "turbanschnecke": {
       "northernHemisphere": "März bis Mai und September bis Dezember",
@@ -2817,41 +2821,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis Juni und September bis November",
-      "value": 1000
-    },
-    "langust": {
-      "northernHemisphere": "Oktober bis Dezember",
-      "name": "Langust",
-      "active": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        true,
-        true,
-        true
-      ],
-      "location": "Meer",
-      "activeLiteral": "21 - 4 Uhr",
-      "southernHemisphere": "April bis Juni",
-      "value": 5000
+      "value": 1000,
+      "slug": "turbanschnecke"
     },
     "troides-brookiana": {
       "northernHemisphere": "April bis September und Dezember bis Februar",
@@ -2885,7 +2856,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Juni bis August und Oktober bis März",
-      "value": 2500
+      "value": 2500,
+      "slug": "troides-brookiana"
     },
     "vampirtintenfisch": {
       "northernHemisphere": "Mai bis August",
@@ -2919,7 +2891,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "November bis Februar",
-      "value": 10000
+      "value": 10000,
+      "slug": "vampirtintenfisch"
     },
     "seegurke": {
       "northernHemisphere": "November bis April",
@@ -2953,7 +2926,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis Oktober",
-      "value": 500
+      "value": 500,
+      "slug": "seegurke"
     },
     "gluehwuermchen": {
       "northernHemisphere": "Juni",
@@ -2987,7 +2961,8 @@
       "location": "Luft",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "Dezember",
-      "value": 0
+      "value": 0,
+      "slug": "gluehwuermchen"
     },
     "koenigslachs": {
       "northernHemisphere": "September",
@@ -3021,7 +2996,8 @@
       "location": "Flussmündung",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März",
-      "value": 1800
+      "value": 1800,
+      "slug": "koenigslachs"
     },
     "skorpion": {
       "northernHemisphere": "Mai bis Oktober",
@@ -3055,7 +3031,8 @@
       "location": "Boden",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 8000
+      "value": 8000,
+      "slug": "skorpion"
     },
     "elefantenkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -3089,7 +3066,8 @@
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 8000
+      "value": 8000,
+      "slug": "elefantenkaefer"
     },
     "ranchu": {
       "northernHemisphere": "das ganze Jahr",
@@ -3123,7 +3101,8 @@
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 4500
+      "value": 4500,
+      "slug": "ranchu"
     },
     "kaulquappe": {
       "northernHemisphere": "März bis Juli",
@@ -3157,7 +3136,8 @@
       "location": "Teich",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "September bis Januar",
-      "value": 100
+      "value": 100,
+      "slug": "kaulquappe"
     },
     "rote-koenigskrabbe": {
       "northernHemisphere": "Januar bis März",
@@ -3191,7 +3171,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis Dezember",
-      "value": 8000
+      "value": 8000,
+      "slug": "rote-koenigskrabbe"
     },
     "hirschkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -3225,7 +3206,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 1000
+      "value": 1000,
+      "slug": "hirschkaefer"
     },
     "riesenassel": {
       "northernHemisphere": "Juli bis Oktober",
@@ -3259,7 +3241,8 @@
       "location": "Meer",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "Januar bis April",
-      "value": 12000
+      "value": 12000,
+      "slug": "riesenassel"
     },
     "paletten-doktorfisch": {
       "northernHemisphere": "April bis September",
@@ -3293,7 +3276,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis März",
-      "value": 1000
+      "value": 1000,
+      "slug": "paletten-doktorfisch"
     },
     "schneekrabbe": {
       "northernHemisphere": "November bis April",
@@ -3327,7 +3311,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis Oktober",
-      "value": 6000
+      "value": 6000,
+      "slug": "schneekrabbe"
     },
     "goldmakrele": {
       "northernHemisphere": "Mai bis Oktober",
@@ -3361,7 +3346,8 @@
       "location": "Steg",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis April",
-      "value": 6000
+      "value": 6000,
+      "slug": "goldmakrele"
     },
     "kliesche": {
       "northernHemisphere": "Oktober bis April",
@@ -3395,7 +3381,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "April bis Oktober",
-      "value": 300
+      "value": 300,
+      "slug": "kliesche"
     },
     "singgrille": {
       "northernHemisphere": "September bis Oktober",
@@ -3429,7 +3416,8 @@
       "location": "Boden",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "März bis April",
-      "value": 430
+      "value": 430,
+      "slug": "singgrille"
     },
     "anglerfisch": {
       "northernHemisphere": "November bis März",
@@ -3463,7 +3451,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Mai bis September",
-      "value": 2000
+      "value": 2000,
+      "slug": "anglerfisch"
     },
     "schnappschildkroete": {
       "northernHemisphere": "April bis Oktober",
@@ -3497,7 +3486,8 @@
       "location": "Fluss",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "Oktober bis April",
-      "value": 5000
+      "value": 5000,
+      "slug": "schnappschildkroete"
     },
     "wollhandkrabbe": {
       "northernHemisphere": "September bis November",
@@ -3531,7 +3521,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "März bis Mai",
-      "value": 2000
+      "value": 2000,
+      "slug": "wollhandkrabbe"
     },
     "giraffenhirschkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -3565,7 +3556,8 @@
       "location": "Bäume",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 12000
+      "value": 12000,
+      "slug": "giraffenhirschkaefer"
     },
     "huchen": {
       "northernHemisphere": "Dezember bis März",
@@ -3599,7 +3591,8 @@
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Juni bis September",
-      "value": 15000
+      "value": 15000,
+      "slug": "huchen"
     },
     "sonnenbarsch": {
       "northernHemisphere": "das ganze Jahr",
@@ -3633,7 +3626,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 180
+      "value": 180,
+      "slug": "sonnenbarsch"
     },
     "schlangenkopf": {
       "northernHemisphere": "Juni bis August",
@@ -3667,7 +3661,8 @@
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "Dezember bis Februar",
-      "value": 5500
+      "value": 5500,
+      "slug": "schlangenkopf"
     },
     "knochenhecht": {
       "northernHemisphere": "Juni bis September",
@@ -3701,7 +3696,8 @@
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 6000
+      "value": 6000,
+      "slug": "knochenhecht"
     },
     "kuruma-garnele": {
       "northernHemisphere": "Juni bis September",
@@ -3735,7 +3731,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis März",
-      "value": 3000
+      "value": 3000,
+      "slug": "kuruma-garnele"
     },
     "babylon-seeschnecke": {
       "northernHemisphere": "das ganze Jahr",
@@ -3769,7 +3766,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1000
+      "value": 1000,
+      "slug": "babylon-seeschnecke"
     },
     "perlboot": {
       "northernHemisphere": "März bis Juni und September bis November",
@@ -3803,7 +3801,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "März bis  Mai und September bis Dezember",
-      "value": 1800
+      "value": 1800,
+      "slug": "perlboot"
     },
     "nasenmuraene": {
       "northernHemisphere": "Juni bis Oktober",
@@ -3837,7 +3836,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis April",
-      "value": 600
+      "value": 600,
+      "slug": "nasenmuraene"
     },
     "orichideenmantis": {
       "northernHemisphere": "März bis November",
@@ -3871,7 +3871,8 @@
       "location": "Blumen",
       "activeLiteral": "8 - 16 Uhr",
       "southernHemisphere": "September bis Mai",
-      "value": 430
+      "value": 430,
+      "slug": "orichideenmantis"
     },
     "griffelseeigel": {
       "northernHemisphere": "Mai bis September",
@@ -3905,7 +3906,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "November bis März",
-      "value": 2000
+      "value": 2000,
+      "slug": "griffelseeigel"
     },
     "regenbogenfisch": {
       "northernHemisphere": "Mai bis Oktober",
@@ -3939,7 +3941,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 800
+      "value": 800,
+      "slug": "regenbogenfisch"
     },
     "riesenkrabbe": {
       "northernHemisphere": "März bis April",
@@ -3973,7 +3976,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "September bis Oktober",
-      "value": 10000
+      "value": 10000,
+      "slug": "riesenkrabbe"
     },
     "seeanemone": {
       "northernHemisphere": "das ganze Jahr",
@@ -4007,7 +4011,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 500
+      "value": 500,
+      "slug": "seeanemone"
     },
     "sacktraeger": {
       "northernHemisphere": "Juni bis August",
@@ -4041,7 +4046,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis März",
-      "value": 600
+      "value": 600,
+      "slug": "sacktraeger"
     },
     "kammmuschel": {
       "northernHemisphere": "das ganze Jahr",
@@ -4075,7 +4081,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1000
+      "value": 1000,
+      "slug": "kammmuschel"
     },
     "muecke": {
       "northernHemisphere": "Juni bis September",
@@ -4109,7 +4116,8 @@
       "location": "Luft",
       "activeLiteral": "17 - 4 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 130
+      "value": 130,
+      "slug": "muecke"
     },
     "hyalessa-zikade": {
       "northernHemisphere": "Juli bis August",
@@ -4143,7 +4151,8 @@
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 300
+      "value": 300,
+      "slug": "hyalessa-zikade"
     },
     "japan-schillerfalter": {
       "northernHemisphere": "Mai bis August",
@@ -4177,7 +4186,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 9 Uhr",
       "southernHemisphere": "November bis Februar",
-      "value": 300
+      "value": 300,
+      "slug": "japan-schillerfalter"
     },
     "stabschrecke": {
       "northernHemisphere": "Juli bis November",
@@ -4211,7 +4221,8 @@
       "location": "Bäume",
       "activeLiteral": "4 - 8 Uhr und 17 - 19 Uhr",
       "southernHemisphere": "Januar bis Mai",
-      "value": 600
+      "value": 600,
+      "slug": "stabschrecke"
     },
     "zitronenfalter": {
       "northernHemisphere": "März bis Juni und September bis Oktober",
@@ -4245,7 +4256,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
       "southernHemisphere": "März bis April und September bis Dezember",
-      "value": 160
+      "value": 160,
+      "slug": "zitronenfalter"
     },
     "kohlweissling": {
       "northernHemisphere": "September bis Juni",
@@ -4279,7 +4291,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
       "southernHemisphere": "März bis Dezember",
-      "value": 160
+      "value": 160,
+      "slug": "kohlweissling"
     },
     "hai": {
       "northernHemisphere": "Juni bis September",
@@ -4313,7 +4326,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 15000
+      "value": 15000,
+      "slug": "hai"
     },
     "grosse-riesenmuschel": {
       "northernHemisphere": "Mai bis September",
@@ -4347,7 +4361,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis März",
-      "value": 15000
+      "value": 15000,
+      "slug": "grosse-riesenmuschel"
     },
     "frosch": {
       "northernHemisphere": "Mai bis August",
@@ -4381,7 +4396,8 @@
       "location": "Teich",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis Februar",
-      "value": 120
+      "value": 120,
+      "slug": "frosch"
     },
     "seeigel": {
       "northernHemisphere": "Mai bis September",
@@ -4415,7 +4431,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis März",
-      "value": 1700
+      "value": 1700,
+      "slug": "seeigel"
     },
     "kampffisch": {
       "northernHemisphere": "Mai bis Oktober",
@@ -4449,7 +4466,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 2500
+      "value": 2500,
+      "slug": "kampffisch"
     },
     "japan-rosenkaefer": {
       "northernHemisphere": "Juni bis August",
@@ -4483,7 +4501,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Februar",
-      "value": 200
+      "value": 200,
+      "slug": "japan-rosenkaefer"
     },
     "piranha": {
       "northernHemisphere": "Juni bis September",
@@ -4517,7 +4536,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr und 20 - 4 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 2500
+      "value": 2500,
+      "slug": "piranha"
     },
     "atlasspinner": {
       "northernHemisphere": "April bis September",
@@ -4551,7 +4571,8 @@
       "location": "Bäume",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "Oktober bis März",
-      "value": 3000
+      "value": 3000,
+      "slug": "atlasspinner"
     },
     "wespe": {
       "northernHemisphere": "das ganze Jahr",
@@ -4585,7 +4606,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 2500
+      "value": 2500,
+      "slug": "wespe"
     },
     "regenbogenfalter": {
       "northernHemisphere": "April bis September",
@@ -4619,7 +4641,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 16 Uhr",
       "southernHemisphere": "Oktober bis März",
-      "value": 2500
+      "value": 2500,
+      "slug": "regenbogenfalter"
     },
     "bitterling": {
       "northernHemisphere": "November bis März",
@@ -4653,7 +4676,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis September",
-      "value": 900
+      "value": 900,
+      "slug": "bitterling"
     },
     "honigbiene": {
       "northernHemisphere": "März bis Juli",
@@ -4687,7 +4711,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "September bis Januar",
-      "value": 200
+      "value": 200,
+      "slug": "honigbiene"
     },
     "blattschrecke": {
       "northernHemisphere": "Juli bis September",
@@ -4721,7 +4746,8 @@
       "location": "Tarnung als Möbelstück auf dem Boden",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Februar",
-      "value": 600
+      "value": 600,
+      "slug": "blattschrecke"
     },
     "karpfen": {
       "northernHemisphere": "das ganze Jahr",
@@ -4755,7 +4781,8 @@
       "location": "Teich",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 300
+      "value": 300,
+      "slug": "karpfen"
     },
     "hummer": {
       "northernHemisphere": "April bis Juni und Dezember bis Januar",
@@ -4789,7 +4816,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis Juli und Oktober bis Dezember",
-      "value": 4500
+      "value": 4500,
+      "slug": "hummer"
     },
     "monarchfalter": {
       "northernHemisphere": "September bis November",
@@ -4823,7 +4851,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "März bis Mai",
-      "value": 140
+      "value": 140,
+      "slug": "monarchfalter"
     },
     "flusskrebs": {
       "northernHemisphere": "April bis September",
@@ -4857,7 +4886,8 @@
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Oktober bis März",
-      "value": 200
+      "value": 200,
+      "slug": "flusskrebs"
     },
     "prachtkaefer": {
       "northernHemisphere": "April bis August",
@@ -4891,7 +4921,8 @@
       "location": "Baumstumpf",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Februar",
-      "value": 2400
+      "value": 2400,
+      "slug": "prachtkaefer"
     },
     "weichschildkroete": {
       "northernHemisphere": "August bis September",
@@ -4925,7 +4956,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Februar bis März",
-      "value": 3750
+      "value": 3750,
+      "slug": "weichschildkroete"
     },
     "schwalbenschwanz": {
       "northernHemisphere": "März bis September",
@@ -4959,7 +4991,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
       "southernHemisphere": "September bis März",
-      "value": 240
+      "value": 240,
+      "slug": "schwalbenschwanz"
     },
     "grashuepfer": {
       "northernHemisphere": "Juli bis September",
@@ -4993,7 +5026,8 @@
       "location": "Boden",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Januar bis März",
-      "value": 160
+      "value": 160,
+      "slug": "grashuepfer"
     },
     "koi-karpfen": {
       "northernHemisphere": "das ganze Jahr",
@@ -5027,7 +5061,8 @@
       "location": "Teich",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 4000
+      "value": 4000,
+      "slug": "koi-karpfen"
     },
     "saegehai": {
       "northernHemisphere": "Juni bis September",
@@ -5061,7 +5096,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 12000
+      "value": 12000,
+      "slug": "saegehai"
     },
     "fliege": {
       "northernHemisphere": "das ganze Jahr",
@@ -5095,7 +5131,8 @@
       "location": "Müll",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 60
+      "value": 60,
+      "slug": "fliege"
     },
     "schiffshalter": {
       "northernHemisphere": "Juni bis September",
@@ -5129,7 +5166,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis März",
-      "value": 1500
+      "value": 1500,
+      "slug": "schiffshalter"
     },
     "geigenkaefer": {
       "northernHemisphere": "Mai bis Juni und September bis November",
@@ -5163,7 +5201,8 @@
       "location": "Baumstumpf",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis Mai und November bis Dezember",
-      "value": 450
+      "value": 450,
+      "slug": "geigenkaefer"
     },
     "walhai": {
       "northernHemisphere": "Juni bis September",
@@ -5197,7 +5236,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis März",
-      "value": 13000
+      "value": 13000,
+      "slug": "walhai"
     },
     "perlmuschel": {
       "northernHemisphere": "das ganze Jahr",
@@ -5231,7 +5271,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 2800
+      "value": 2800,
+      "slug": "perlmuschel"
     },
     "seeschwein": {
       "northernHemisphere": "November bis Februar",
@@ -5265,7 +5306,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Mai bis August",
-      "value": 10000
+      "value": 10000,
+      "slug": "seeschwein"
     },
     "sardelle": {
       "northernHemisphere": "das ganze Jahr",
@@ -5299,7 +5341,8 @@
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 200
+      "value": 200,
+      "slug": "sardelle"
     },
     "vogelfalter": {
       "northernHemisphere": "Mai bis September",
@@ -5333,7 +5376,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 16 Uhr",
       "southernHemisphere": "November bis März",
-      "value": 4000
+      "value": 4000,
+      "slug": "vogelfalter"
     },
     "tilapia": {
       "northernHemisphere": "Juni bis Oktober",
@@ -5367,7 +5411,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis April",
-      "value": 800
+      "value": 800,
+      "slug": "tilapia"
     },
     "atlaskaefer": {
       "northernHemisphere": "Juli bis August",
@@ -5401,7 +5446,8 @@
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 8000
+      "value": 8000,
+      "slug": "atlaskaefer"
     },
     "lachs": {
       "northernHemisphere": "September",
@@ -5435,7 +5481,8 @@
       "location": "Flussmündung",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März",
-      "value": 700
+      "value": 700,
+      "slug": "lachs"
     },
     "seebarsch": {
       "northernHemisphere": "das ganze Jahr",
@@ -5469,7 +5516,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 400
+      "value": 400,
+      "slug": "seebarsch"
     },
     "seestern": {
       "northernHemisphere": "das ganze Jahr",
@@ -5503,7 +5551,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 500
+      "value": 500,
+      "slug": "seestern"
     },
     "gold-mistkaefer": {
       "northernHemisphere": "Juli bis September",
@@ -5537,7 +5586,8 @@
       "location": "Boden",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis März",
-      "value": 3000
+      "value": 3000,
+      "slug": "gold-mistkaefer"
     },
     "agrias-falter": {
       "northernHemisphere": "April bis September",
@@ -5571,7 +5621,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Oktober bis März",
-      "value": 3000
+      "value": 3000,
+      "slug": "agrias-falter"
     },
     "goldfisch ": {
       "northernHemisphere": "das ganze Jahr",
@@ -5605,7 +5656,8 @@
       "location": "Teich",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1300
+      "value": 1300,
+      "slug": "goldfisch "
     },
     "himmelsfalter": {
       "northernHemisphere": "Dezember bis März und Juni bis September",
@@ -5639,7 +5691,8 @@
       "location": "Luft",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Juni bis September und Dezember bis März",
-      "value": 4000
+      "value": 4000,
+      "slug": "himmelsfalter"
     },
     "pracht-hirschkaefer": {
       "northernHemisphere": "Juni bis September",
@@ -5673,7 +5726,8 @@
       "location": "Bäume",
       "activeLiteral": "19 - 8 Uhr",
       "southernHemisphere": "November bis Februar",
-      "value": 6000
+      "value": 6000,
+      "slug": "pracht-hirschkaefer"
     },
     "regenschirm-oktopus": {
       "northernHemisphere": "März bis Mai und September bis November",
@@ -5707,7 +5761,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis Mai und September bis November",
-      "value": 6000
+      "value": 6000,
+      "slug": "regenschirm-oktopus"
     },
     "riesenwanze": {
       "northernHemisphere": "April bis September",
@@ -5741,7 +5796,8 @@
       "location": "Wasser",
       "activeLiteral": "19 - 7 Uhr",
       "southernHemisphere": "Oktober bis März",
-      "value": 2000
+      "value": 2000,
+      "slug": "riesenwanze"
     },
     "gazami-krabbe": {
       "northernHemisphere": "Juni bis November",
@@ -5775,7 +5831,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Mai",
-      "value": 2200
+      "value": 2200,
+      "slug": "gazami-krabbe"
     },
     "hasel": {
       "northernHemisphere": "das ganze Jahr",
@@ -5809,7 +5866,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 240
+      "value": 240,
+      "slug": "hasel"
     },
     "guppy": {
       "northernHemisphere": "April bis November",
@@ -5843,7 +5901,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 1300
+      "value": 1300,
+      "slug": "guppy"
     },
     "leuchtkaefer": {
       "northernHemisphere": "Juni",
@@ -5877,7 +5936,8 @@
       "location": "Luft",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "November",
-      "value": 300
+      "value": 300,
+      "slug": "leuchtkaefer"
     },
     "bachschmerle": {
       "northernHemisphere": "März bis Mai",
@@ -5911,7 +5971,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "September bis November",
-      "value": 400
+      "value": 400,
+      "slug": "bachschmerle"
     },
     "auster": {
       "northernHemisphere": "September bis Februar",
@@ -5945,7 +6006,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis August",
-      "value": 1100
+      "value": 1100,
+      "slug": "auster"
     },
     "floh": {
       "northernHemisphere": "April bis September",
@@ -5979,7 +6041,8 @@
       "location": "Auf Nachbarn",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 70
+      "value": 70,
+      "slug": "floh"
     },
     "weisse-baumnymphe": {
       "northernHemisphere": "das ganze Jahr",
@@ -6013,7 +6076,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1000
+      "value": 1000,
+      "slug": "weisse-baumnymphe"
     },
     "motte": {
       "northernHemisphere": "das ganze Jahr",
@@ -6047,7 +6111,8 @@
       "location": "Nähe von Licht",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 130
+      "value": 130,
+      "slug": "motte"
     },
     "kaiserschnapper": {
       "northernHemisphere": "das ganze Jahr",
@@ -6081,7 +6146,8 @@
       "location": "Meer ",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 3000
+      "value": 3000,
+      "slug": "kaiserschnapper"
     },
     "quastenflosser": {
       "northernHemisphere": "das ganze Jahr",
@@ -6115,7 +6181,8 @@
       "location": "Meer bei Regen",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 15000
+      "value": 15000,
+      "slug": "quastenflosser"
     },
     "ayu": {
       "northernHemisphere": "Juli bis September",
@@ -6149,7 +6216,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis März",
-      "value": 900
+      "value": 900,
+      "slug": "ayu"
     },
     "lachssalmler": {
       "northernHemisphere": "Juni bis September",
@@ -6183,7 +6251,8 @@
       "location": "Fluss",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 15000
+      "value": 15000,
+      "slug": "lachssalmler"
     },
     "abendzikade": {
       "northernHemisphere": "Juli bis August",
@@ -6217,7 +6286,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 8 Uhr und 16 - 19 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 550
+      "value": 550,
+      "slug": "abendzikade"
     },
     "saibling ": {
       "northernHemisphere": "März bis Juni und September bis November",
@@ -6251,7 +6321,8 @@
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "September bis Dezember und März bis Mai",
-      "value": 3800
+      "value": 3800,
+      "slug": "saibling "
     },
     "nasenschrecke": {
       "northernHemisphere": "April bis November",
@@ -6285,7 +6356,8 @@
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 200
+      "value": 200,
+      "slug": "nasenschrecke"
     },
     "arowana": {
       "northernHemisphere": "Juni bis September",
@@ -6319,7 +6391,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 10000
+      "value": 10000,
+      "slug": "arowana"
     },
     "glaskopffisch": {
       "northernHemisphere": "das ganze Jahr",
@@ -6353,7 +6426,8 @@
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 15000
+      "value": 15000,
+      "slug": "glaskopffisch"
     },
     "flussbarsch": {
       "northernHemisphere": "das ganze Jahr",
@@ -6387,7 +6461,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 300
+      "value": 300,
+      "slug": "flussbarsch"
     },
     "meerstrudelwurm": {
       "northernHemisphere": "August bis September",
@@ -6421,7 +6496,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Februar bis März",
-      "value": 700
+      "value": 700,
+      "slug": "meerstrudelwurm"
     },
     "blauruesselkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -6455,7 +6531,8 @@
       "location": "Baumstumpf",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis Februar",
-      "value": 800
+      "value": 800,
+      "slug": "blauruesselkaefer"
     },
     "allotups-rosenbergi": {
       "northernHemisphere": "Juli bis August",
@@ -6489,7 +6566,8 @@
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 12000
+      "value": 12000,
+      "slug": "allotups-rosenbergi"
     },
     "masulachs": {
       "northernHemisphere": "März bis Juni und September bis November",
@@ -6523,7 +6601,8 @@
       "location": "Flussquelle und Wasserfall",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "September bis Dezember und März bis Mai",
-      "value": 1000
+      "value": 1000,
+      "slug": "masulachs"
     },
     "seepferdchen": {
       "northernHemisphere": "April bis November",
@@ -6557,7 +6636,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 1100
+      "value": 1100,
+      "slug": "seepferdchen"
     },
     "mistkaefer": {
       "northernHemisphere": "Dezember bis Februar",
@@ -6591,7 +6671,8 @@
       "location": "Boden",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis Juli",
-      "value": 300
+      "value": 300,
+      "slug": "mistkaefer"
     },
     "goldskarabaeus": {
       "northernHemisphere": "Juli bis August",
@@ -6625,7 +6706,8 @@
       "location": "Bäume",
       "activeLiteral": "23 - 8 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 10000
+      "value": 10000,
+      "slug": "goldskarabaeus"
     },
     "gesichtswanze": {
       "northernHemisphere": "März bis Oktober",
@@ -6659,7 +6741,8 @@
       "location": "Blumen",
       "activeLiteral": "19 - 8 Uhr",
       "southernHemisphere": "September bis April",
-      "value": 1000
+      "value": 1000,
+      "slug": "gesichtswanze"
     },
     "kriechsprossalge": {
       "northernHemisphere": "Juni bis September",
@@ -6693,7 +6776,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis März",
-      "value": 900
+      "value": 900,
+      "slug": "kriechsprossalge"
     },
     "oktopus": {
       "northernHemisphere": "das ganze Jahr",
@@ -6727,7 +6811,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1200
+      "value": 1200,
+      "slug": "oktopus"
     },
     "rochen": {
       "northernHemisphere": "August bis November",
@@ -6761,7 +6846,8 @@
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "Februar bis Mai",
-      "value": 3000
+      "value": 3000,
+      "slug": "rochen"
     },
     "katzenwels": {
       "northernHemisphere": "Mai bis Oktober",
@@ -6795,7 +6881,8 @@
       "location": "Teich",
       "activeLiteral": "6 - 9 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 800
+      "value": 800,
+      "slug": "katzenwels"
     },
     "miesmuschel": {
       "northernHemisphere": "Juni bis Dezember",
@@ -6829,7 +6916,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Juni",
-      "value": 1500
+      "value": 1500,
+      "slug": "miesmuschel"
     },
     "riemenfisch": {
       "northernHemisphere": "Dezember bis Mai",
@@ -6863,7 +6951,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis November",
-      "value": 9000
+      "value": 9000,
+      "slug": "riemenfisch"
     },
     "schwimmkaefer": {
       "northernHemisphere": "Mai bis September",
@@ -6897,7 +6986,8 @@
       "location": "Wasser",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "November bis März",
-      "value": 800
+      "value": 800,
+      "slug": "schwimmkaefer"
     },
     "flussgrundel": {
       "northernHemisphere": "das ganze Jahr",
@@ -6931,7 +7021,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 400
+      "value": 400,
+      "slug": "flussgrundel"
     },
     "pazifik-taschenkrebs": {
       "northernHemisphere": "November bis Mai",
@@ -6965,7 +7056,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis November",
-      "value": 1900
+      "value": 1900,
+      "slug": "pazifik-taschenkrebs"
     },
     "stint": {
       "northernHemisphere": "Dezember bis Februar",
@@ -6999,7 +7091,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis August",
-      "value": 400
+      "value": 400,
+      "slug": "stint"
     },
     "makrele": {
       "northernHemisphere": "das ganze Jahr",
@@ -7033,7 +7126,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 150
+      "value": 150,
+      "slug": "makrele"
     },
     "wasserjungfer": {
       "northernHemisphere": "November bis Februar",
@@ -7067,7 +7161,8 @@
       "location": "Luft",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis August",
-      "value": 500
+      "value": 500,
+      "slug": "wasserjungfer"
     },
     "arapaima": {
       "northernHemisphere": "Juni bis September",
@@ -7101,7 +7196,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 10000
+      "value": 10000,
+      "slug": "arapaima"
     },
     "stachelmakrele": {
       "northernHemisphere": "Mai bis Oktober",
@@ -7135,7 +7231,8 @@
       "location": "Steg",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis April",
-      "value": 4500
+      "value": 4500,
+      "slug": "stachelmakrele"
     },
     "einsiedlerkrebs": {
       "northernHemisphere": "das ganze Jahr",
@@ -7169,7 +7266,8 @@
       "location": "Strand",
       "activeLiteral": "19 - 8 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1000
+      "value": 1000,
+      "slug": "einsiedlerkrebs"
     },
     "cyclommantus": {
       "northernHemisphere": "Juli bis August",
@@ -7203,7 +7301,8 @@
       "location": "Palmen",
       "activeLiteral": "19 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 8000
+      "value": 8000,
+      "slug": "cyclommantus"
     },
     "ritterfalter": {
       "northernHemisphere": "März bis Juni",
@@ -7237,7 +7336,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
       "southernHemisphere": "September bis Dezember",
-      "value": 2500
+      "value": 2500,
+      "slug": "ritterfalter"
     },
     "wasserlaeufer": {
       "northernHemisphere": "Mai bis September",
@@ -7271,7 +7371,8 @@
       "location": "Wasser",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "November bis März",
-      "value": 130
+      "value": 130,
+      "slug": "wasserlaeufer"
     },
     "floesselhecht": {
       "northernHemisphere": "Juni bis September",
@@ -7305,7 +7406,8 @@
       "location": "Fluss",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 4000
+      "value": 4000,
+      "slug": "floesselhecht"
     },
     "neonsalmer": {
       "northernHemisphere": "April bis November",
@@ -7339,7 +7441,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 500
+      "value": 500,
+      "slug": "neonsalmer"
     },
     "flunder": {
       "northernHemisphere": "Oktober bis April",
@@ -7373,7 +7476,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "April bis Oktober",
-      "value": 800
+      "value": 800,
+      "slug": "flunder"
     },
     "pfeilschwanzkrebs": {
       "northernHemisphere": "Juli bis September",
@@ -7407,7 +7511,8 @@
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "Januar bis März",
-      "value": 2500
+      "value": 2500,
+      "slug": "pfeilschwanzkrebs"
     },
     "hecht": {
       "northernHemisphere": "September bis Dezember",
@@ -7441,7 +7546,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis Juni",
-      "value": 1800
+      "value": 1800,
+      "slug": "hecht"
     },
     "seeohr": {
       "northernHemisphere": "Juni bis Januar",
@@ -7475,7 +7581,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis Juli",
-      "value": 2000
+      "value": 2000,
+      "slug": "seeohr"
     },
     "roehrenaal": {
       "northernHemisphere": "Mai bis Oktober",
@@ -7509,7 +7616,8 @@
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 1100
+      "value": 1100,
+      "slug": "roehrenaal"
     },
     "grille": {
       "northernHemisphere": "September bis November",
@@ -7543,7 +7651,8 @@
       "location": "Boden",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "März bis Mai",
-      "value": 130
+      "value": 130,
+      "slug": "grille"
     },
     "goliathkaefer": {
       "northernHemisphere": "Juni bis September",
@@ -7577,7 +7686,8 @@
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "November bis Februar",
-      "value": 8000
+      "value": 8000,
+      "slug": "goliathkaefer"
     },
     "wanderschrecke": {
       "northernHemisphere": "April bis November",
@@ -7611,7 +7721,8 @@
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "Februar bis Mai",
-      "value": 600
+      "value": 600,
+      "slug": "wanderschrecke"
     },
     "anemomenfisch": {
       "northernHemisphere": "April bis November",
@@ -7645,7 +7756,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 650
+      "value": 650,
+      "slug": "anemomenfisch"
     },
     "muraene": {
       "northernHemisphere": "August bis Oktober",
@@ -7679,7 +7791,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Februar bis April",
-      "value": 2000
+      "value": 2000,
+      "slug": "muraene"
     },
     "bergzikade": {
       "northernHemisphere": "August bis September",
@@ -7713,7 +7826,8 @@
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Februar bis März",
-      "value": 400
+      "value": 400,
+      "slug": "bergzikade"
     },
     "zikadenlarvenhaut": {
       "northernHemisphere": "Juli bis August",
@@ -7747,7 +7861,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis Februar",
-      "value": 10
+      "value": 10,
+      "slug": "zikadenlarvenhaut"
     },
     "ameise": {
       "northernHemisphere": "das ganze Jahr",
@@ -7781,7 +7896,8 @@
       "location": "Verrottete Früchte",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 80
+      "value": 80,
+      "slug": "ameise"
     },
     "riesenzikade": {
       "northernHemisphere": "Juli bis August",
@@ -7815,7 +7931,8 @@
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 500
+      "value": 500,
+      "slug": "riesenzikade"
     },
     "maulwurfsgrille": {
       "northernHemisphere": "November bis Mai",
@@ -7849,7 +7966,8 @@
       "location": "In der Erde",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis November",
-      "value": 500
+      "value": 500,
+      "slug": "maulwurfsgrille"
     },
     "seepocke": {
       "northernHemisphere": "das ganze Jahr",
@@ -7883,7 +8001,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 600
+      "value": 600,
+      "slug": "seepocke"
     },
     "riesen-hirschkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -7917,7 +8036,8 @@
       "location": "Bäume",
       "activeLiteral": "23 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 10000
+      "value": 10000,
+      "slug": "riesen-hirschkaefer"
     },
     "saugbarbe": {
       "northernHemisphere": "Mai bis September",
@@ -7951,7 +8071,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "November bis März",
-      "value": 1500
+      "value": 1500,
+      "slug": "saugbarbe"
     },
     "wakame-alge": {
       "northernHemisphere": "Oktober bis Juli",
@@ -7985,7 +8106,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "April bis Januar",
-      "value": 600
+      "value": 600,
+      "slug": "wakame-alge"
     },
     "heuschrecke": {
       "northernHemisphere": "August bis November",
@@ -8019,7 +8141,8 @@
       "location": "Boden",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "Februar bis Mai",
-      "value": 400
+      "value": 400,
+      "slug": "heuschrecke"
     },
     "teleskopauge": {
       "northernHemisphere": "das ganze Jahr",
@@ -8053,7 +8176,8 @@
       "location": "Teich",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 1300
+      "value": 1300,
+      "slug": "teleskopauge"
     },
     "quelljungfer": {
       "northernHemisphere": "Mai bis Oktober",
@@ -8087,7 +8211,43 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 4500
+      "value": 4500,
+      "slug": "quelljungfer"
+    },
+    "languste": {
+      "northernHemisphere": "Oktober bis Dezember",
+      "name": "Languste",
+      "active": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true
+      ],
+      "location": "Meer",
+      "activeLiteral": "21 - 4 Uhr",
+      "southernHemisphere": "April bis Juni",
+      "value": 5000,
+      "slug": "languste"
     },
     "thunfisch": {
       "northernHemisphere": "November bis April",
@@ -8121,7 +8281,8 @@
       "location": "Steg",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis Oktober",
-      "value": 7000
+      "value": 7000,
+      "slug": "thunfisch"
     },
     "fichtenbock": {
       "northernHemisphere": "das ganze Jahr",
@@ -8155,7 +8316,8 @@
       "location": "Baumstumpf",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 350
+      "value": 350,
+      "slug": "fichtenbock"
     },
     "ligia-exotica": {
       "northernHemisphere": "das ganze Jahr",
@@ -8189,7 +8351,8 @@
       "location": "Strandfelsen",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 200
+      "value": 200,
+      "slug": "ligia-exotica"
     },
     "sandlaufkaefer": {
       "northernHemisphere": "Februar bis Oktober",
@@ -8223,7 +8386,8 @@
       "location": "Boden",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "August bis April",
-      "value": 1500
+      "value": 1500,
+      "slug": "sandlaufkaefer"
     },
     "hundertfuesser": {
       "northernHemisphere": "September bis Juni",
@@ -8257,7 +8421,8 @@
       "location": "Steine",
       "activeLiteral": "16 - 23 Uhr",
       "southernHemisphere": "März bis Dezember",
-      "value": 300
+      "value": 300,
+      "slug": "hundertfuesser"
     },
     "skalar": {
       "northernHemisphere": "Mai bis Oktober",
@@ -8291,7 +8456,8 @@
       "location": "Fluss",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "November bis April",
-      "value": 3000
+      "value": 3000,
+      "slug": "skalar"
     },
     "leuchtkalmar": {
       "northernHemisphere": "März bis Juni",
@@ -8325,7 +8491,8 @@
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "September bis Dezember",
-      "value": 1400
+      "value": 1400,
+      "slug": "leuchtkalmar"
     },
     "mondfisch": {
       "northernHemisphere": "Juli bis September",
@@ -8359,7 +8526,8 @@
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "Januar bis März",
-      "value": 4000
+      "value": 4000,
+      "slug": "mondfisch"
     },
     "alpenbock": {
       "northernHemisphere": "Mai bis September",
@@ -8393,7 +8561,8 @@
       "location": "Baumstumpf",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "November bis März",
-      "value": 3000
+      "value": 3000,
+      "slug": "alpenbock"
     },
     "karausche": {
       "northernHemisphere": "das ganze Jahr",
@@ -8427,7 +8596,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 160
+      "value": 160,
+      "slug": "karausche"
     },
     "gottesanbeterin": {
       "northernHemisphere": "März bis November",
@@ -8461,7 +8631,8 @@
       "location": "Blumen",
       "activeLiteral": "8 - 16 Uhr",
       "southernHemisphere": "September bis Mai",
-      "value": 430
+      "value": 430,
+      "slug": "gottesanbeterin"
     },
     "saegezahn-hirschkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -8495,7 +8666,8 @@
       "location": "Bäume",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 2000
+      "value": 2000,
+      "slug": "saegezahn-hirschkaefer"
     },
     "igelfisch": {
       "northernHemisphere": "Juli bis September",
@@ -8529,7 +8701,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Januar bis März",
-      "value": 250
+      "value": 250,
+      "slug": "igelfisch"
     },
     "stinkwanze": {
       "northernHemisphere": "März bis Oktober",
@@ -8563,7 +8736,8 @@
       "location": "Blumen",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "September bis April",
-      "value": 120
+      "value": 120,
+      "slug": "stinkwanze"
     },
     "kugelfisch": {
       "northernHemisphere": "November bis Februar",
@@ -8597,7 +8771,8 @@
       "location": "Meer",
       "activeLiteral": "21 - 4 Uhr",
       "southernHemisphere": "Mai bis August",
-      "value": 5000
+      "value": 5000,
+      "slug": "kugelfisch"
     },
     "stoer": {
       "northernHemisphere": "September bis März",
@@ -8631,7 +8806,8 @@
       "location": "Flussmündung",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "März bis September",
-      "value": 10000
+      "value": 10000,
+      "slug": "stoer"
     },
     "herkuleskaefer": {
       "northernHemisphere": "Juli bis August",
@@ -8665,7 +8841,8 @@
       "location": "Palmen",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 12000
+      "value": 12000,
+      "slug": "herkuleskaefer"
     },
     "braunzikade": {
       "northernHemisphere": "Juli bis August",
@@ -8699,7 +8876,8 @@
       "location": "Bäume",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 250
+      "value": 250,
+      "slug": "braunzikade"
     },
     "spinne": {
       "northernHemisphere": "das ganze Jahr",
@@ -8733,7 +8911,8 @@
       "location": "Bäume",
       "activeLiteral": "19 - 8 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 600
+      "value": 600,
+      "slug": "spinne"
     },
     "hammerhai": {
       "northernHemisphere": "Juni bis September",
@@ -8767,7 +8946,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "Dezember bis März",
-      "value": 8000
+      "value": 8000,
+      "slug": "hammerhai"
     },
     "nacktkiemer": {
       "northernHemisphere": "das ganze Jahr",
@@ -8801,7 +8981,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 600
+      "value": 600,
+      "slug": "nacktkiemer"
     },
     "barsch": {
       "northernHemisphere": "das ganze Jahr",
@@ -8835,7 +9016,8 @@
       "location": "Fluss",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "das ganze Jahr",
-      "value": 400
+      "value": 400,
+      "slug": "barsch"
     },
     "napoleanfisch": {
       "northernHemisphere": "Juli bis August",
@@ -8869,7 +9051,8 @@
       "location": "Meer",
       "activeLiteral": "4 - 21 Uhr",
       "southernHemisphere": "Januar bis Februar",
-      "value": 10000
+      "value": 10000,
+      "slug": "napoleanfisch"
     },
     "kalmar": {
       "northernHemisphere": "Dezember bis August",
@@ -8903,7 +9086,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis Februar",
-      "value": 500
+      "value": 500,
+      "slug": "kalmar"
     },
     "kilifisch": {
       "northernHemisphere": "April bis August",
@@ -8937,7 +9121,8 @@
       "location": "Teich",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Februar",
-      "value": 300
+      "value": 300,
+      "slug": "kilifisch"
     },
     "marienkaefer": {
       "northernHemisphere": "März bis Juni und Oktober",
@@ -8971,7 +9156,8 @@
       "location": "Blumen",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "April und September bis Dezember",
-      "value": 200
+      "value": 200,
+      "slug": "marienkaefer"
     },
     "kolibrifalter": {
       "northernHemisphere": "April bis August",
@@ -9005,7 +9191,8 @@
       "location": "Luft",
       "activeLiteral": "4 - 19 Uhr",
       "southernHemisphere": "Oktober bis Februar",
-      "value": 300
+      "value": 300,
+      "slug": "kolibrifalter"
     },
     "nashornkaefer": {
       "northernHemisphere": "Juli bis August",
@@ -9039,7 +9226,8 @@
       "location": "Bäume",
       "activeLiteral": "17 - 8 Uhr",
       "southernHemisphere": "Dezember bis Januar",
-      "value": 1350
+      "value": 1350,
+      "slug": "nashornkaefer"
     },
     "botan-garnele": {
       "northernHemisphere": "September bis Februar",
@@ -9073,7 +9261,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "März bis August",
-      "value": 1400
+      "value": 1400,
+      "slug": "botan-garnele"
     },
     "rotfeuerfisch": {
       "northernHemisphere": "April bis November",
@@ -9107,7 +9296,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Mai",
-      "value": 500
+      "value": 500,
+      "slug": "rotfeuerfisch"
     },
     "koenigslibelle": {
       "northernHemisphere": "April bis Oktober",
@@ -9141,7 +9331,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 17 Uhr",
       "southernHemisphere": "Oktober bis April",
-      "value": 230
+      "value": 230,
+      "slug": "koenigslibelle"
     },
     "giesskannenschwamm": {
       "northernHemisphere": "Oktober bis Februar",
@@ -9175,7 +9366,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "April bis August",
-      "value": 5000
+      "value": 5000,
+      "slug": "giesskannenschwamm"
     },
     "fangschreckenkrebs": {
       "northernHemisphere": "das ganze Jahr",
@@ -9209,7 +9401,8 @@
       "location": "Meer",
       "activeLiteral": "16 - 9 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 2500
+      "value": 2500,
+      "slug": "fangschreckenkrebs"
     },
     "seeananas": {
       "northernHemisphere": "April bis August",
@@ -9243,7 +9436,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Oktober bis Februar",
-      "value": 1500
+      "value": 1500,
+      "slug": "seeananas"
     },
     "vogelspinne": {
       "northernHemisphere": "November bis April",
@@ -9277,7 +9471,8 @@
       "location": "Boden",
       "activeLiteral": "19 - 4 Uhr",
       "southernHemisphere": "Mai bis Oktober",
-      "value": 8000
+      "value": 8000,
+      "slug": "vogelspinne"
     },
     "feuerlibelle": {
       "northernHemisphere": "September bis Oktober",
@@ -9311,7 +9506,8 @@
       "location": "Luft",
       "activeLiteral": "8 - 19 Uhr",
       "southernHemisphere": "März bis April",
-      "value": 180
+      "value": 180,
+      "slug": "feuerlibelle"
     },
     "kugelassel": {
       "northernHemisphere": "September bis Juni",
@@ -9345,7 +9541,8 @@
       "location": "Steine",
       "activeLiteral": "23 - 16 Uhr",
       "southernHemisphere": "März bis Dezember",
-      "value": 250
+      "value": 250,
+      "slug": "kugelassel"
     },
     "see-engel": {
       "northernHemisphere": "Dezember bis März",
@@ -9379,7 +9576,8 @@
       "location": "Meer",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Juni bis September",
-      "value": 1000
+      "value": 1000,
+      "slug": "see-engel"
     },
     "doebel": {
       "northernHemisphere": "das ganze Jahr",
@@ -9413,7 +9611,8 @@
       "location": "Fluss",
       "activeLiteral": "9 - 16 Uhr",
       "southernHemisphere": "das ganze Jahr",
-      "value": 200
+      "value": 200,
+      "slug": "doebel"
     },
     "marlin": {
       "northernHemisphere": "November bis April und Juli bis September",
@@ -9447,7 +9646,8 @@
       "location": "Steg",
       "activeLiteral": "den ganzen Tag",
       "southernHemisphere": "Mai bis Oktober und Januar bis März",
-      "value": 10000
+      "value": 10000,
+      "slug": "marlin"
     }
   }
 }

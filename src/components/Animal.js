@@ -14,6 +14,7 @@ export default ({ animal, colors:{ header } }) => {
                             <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>
                         </header>
                         <main className='animal-body'>
+                            <img className='animal-image' src={`/img/${animal.slug}.png`} />
                             <table>
                                 <tbody>
                                     <tr>
