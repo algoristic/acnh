@@ -2,7 +2,6 @@ import { Component } from 'react'
 
 import Hemisphere from '../context/Hemisphere'
 import Update from '../context/Update'
-import Sort from '../context/Sort'
 
 import AnimalService from '../service/AnimalService'
 import DateTimeService from '../service/DateTimeService'

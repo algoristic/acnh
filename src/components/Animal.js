@@ -2,7 +2,7 @@ import './Animal.css'
 
 import Hemisphere from '../context/Hemisphere'
 
-export default ({ animal, colors:{ header } }) => {
+const Animal = ({ animal, colors:{ header } }) => {
     return (
         <Hemisphere.Consumer>
         {({ hemisphere }) => {
@@ -14,7 +14,7 @@ export default ({ animal, colors:{ header } }) => {
                             <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>
                         </header>
                         <main className='animal-body'>
-                            <img className='animal-image' src={`/img/${animal.slug}.png`} />
+                            <img className='animal-image' src={`/img/${animal.slug}.png`} alt={animal.name} title={animal.name} />
                             <table>
                                 <tbody>
                                     <tr>
@@ -39,3 +39,4 @@ export default ({ animal, colors:{ header } }) => {
         </Hemisphere.Consumer>
     );
 }
+export default Animal;

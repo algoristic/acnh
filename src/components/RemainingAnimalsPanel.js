@@ -1,6 +1,6 @@
 import Panel from './Panel'
 
-export default ({ animals, month, hour }) => {
+const RemainingAnimalsPanel = ({ animals, month, hour }) => {
     return (
         <Panel id='remaining'
             text={ <i style={{ color: 'grey' }}>Noch nicht aktiv</i> }
@@ -10,3 +10,4 @@ export default ({ animals, month, hour }) => {
         </Panel>
     );
 }
+export default RemainingAnimalsPanel;

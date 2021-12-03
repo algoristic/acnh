@@ -1,6 +1,6 @@
 import './Toggle.css'
 
-export default ({ className, click, text, icon }) => {
+const Toggle = ({ className, click, text, icon }) => {
     return (
         <span className={'settings-wrapper' + (className ? ` ${className}` : '')}>
             <span className='settings-toggle' onClick={() => click()}>
@@ -12,3 +12,4 @@ export default ({ className, click, text, icon }) => {
         </span>
     );
 }
+export default Toggle;

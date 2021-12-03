@@ -1,6 +1,6 @@
 import Panel from './Panel'
 
-export default ({ animals, month, hour }) => {
+const FishPanel = ({ animals, month, hour }) => {
     return (
         <Panel id='fish' text='Fische' icon='🐟'
             colors={{ header: '#1a759f', body: '#168aad', text: '#f1faee'}}
@@ -8,3 +8,4 @@ export default ({ animals, month, hour }) => {
         </Panel>
     );
 }
+export default FishPanel;

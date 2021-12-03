@@ -1,4 +1,3 @@
-import DateTimeService from './DateTimeService'
 import data from '../assets/data.min.js'
 
 const sort = {

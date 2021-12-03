@@ -2,7 +2,6 @@ import { Component } from 'react'
 
 import Hemisphere from '../context/Hemisphere'
 import Update from '../context/Update'
-import Sort from '../context/Sort'
 
 import Toggle from './Toggle'
 
@@ -40,7 +39,6 @@ export default class SettingsBar extends Component {
                 <div className='settings-bar-content container-fluid'>
                     <Hemisphere.Consumer>
                     {({ hemisphere, change }) => {
-                        let result;
                         const north = 'northernHemisphere';
                         const south = 'southernHemisphere';
                         if(hemisphere === north) {
