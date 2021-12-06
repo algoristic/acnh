@@ -35,9 +35,18 @@ class RemainingAnimalsPanel extends Component {
                 colors={{ header: '#343a40', body: '#6c757d', text: '#f1faee'}}
                 animals={() => animals.getNext(active, month, hour)}>
                 <div className='select-domain col-12 col-md-6 col-lg-4'>
-                    <RemainingDomain color='#386641' active={active.includes('insekten')} action={() => this.toggle('insekten')} text='🐛' />
-                    <RemainingDomain color='#1a759f' active={active.includes('fische')} action={() => this.toggle('fische')} text='🐟' />
-                    <RemainingDomain color='#184e77' active={active.includes('meerestiere')} action={() => this.toggle('meerestiere')} text='🐙' />
+                    <RemainingDomain color='#386641'
+                        active={active.includes('insekten')} text='🐛'
+                        action={() => this.toggle('insekten')}>
+                    </RemainingDomain>
+                    <RemainingDomain color='#1a759f' text='🐟'
+                        active={active.includes('fische')}
+                        action={() => this.toggle('fische')}>
+                    </RemainingDomain>
+                    <RemainingDomain color='#184e77' text='🐙'
+                        active={active.includes('meerestiere')}
+                        action={() => this.toggle('meerestiere')}>
+                    </RemainingDomain>
                 </div>
             </Panel>
         );
