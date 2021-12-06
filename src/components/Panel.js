@@ -28,7 +28,7 @@ export default class Panel extends Component {
 
     render() {
         let index = -1;
-        const { colors, icon, text, animals } = this.props;
+        const { colors, icon, text, animals, children } = this.props;
         const { collapsed } = this.state;
         return (
             <article className={'container-fluid panel' + (collapsed ? ' collapsed' : '')}
@@ -45,6 +45,7 @@ export default class Panel extends Component {
                     </span>
                 </header>
                 <main className='panel-body row' style={{ background: colors.body }}>
+                    { children }
                     { !collapsed && animals().map((animal) => <Animal key={++index} animal={animal} colors={colors} />) }
                 </main>
             </article>

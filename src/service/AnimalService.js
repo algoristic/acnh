@@ -44,23 +44,26 @@ class AnimalService {
             .sort(sort[this.sort.property][this.sort.order]);
     }
 
-    getNext(month, hour) {
+    getNext(domains, month, hour) {
         const monthData = data[this.hemisphere][month];
         const { insekten, fische, meerestiere } = monthData;
-        const all = insekten.concat(fische, meerestiere)
-            .map(slug => data.animals[slug])
-            .filter(animal => {
-                if(animal.active[hour]) {
-                    return false;
-                }
-                for(let j = (hour + 1); j <= 23; j++) {
-                    if(animal.active[j]) {
-                        return true;
+        const all = [].concat.apply([],
+            Object.keys(monthData)
+                .filter(domain => domains.includes(domain))
+                .map(domain => monthData[domain]))
+                .map(slug => data.animals[slug])
+                .filter(animal => {
+                    if(animal.active[hour]) {
+                        return false;
                     }
-                }
-                return false;
-            })
-            .sort(sort[this.sort.property][this.sort.order]);
+                    for(let j = (hour + 1); j <= 23; j++) {
+                        if(animal.active[j]) {
+                            return true;
+                        }
+                    }
+                    return false;
+                })
+                .sort(sort[this.sort.property][this.sort.order]);
         return all;
     }
 }
