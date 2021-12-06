@@ -37,7 +37,7 @@ class AppSettingsBar extends Component {
                 <div className='settings-bar container-fluid'>
                     <div className='app-info-wrapper'>
                         <div className='app-name'>
-                            <Link to='/'>CrossingCalendar</Link>
+                            <a href='/'>CrossingCalendar</a>
                         </div>
                         <div className='app-date-time'>{ text }</div>
                     </div>
@@ -45,11 +45,11 @@ class AppSettingsBar extends Component {
                 </div>
                 <div className='settings-bar-content container-fluid'>
                     <div className='settings-wrapper link-wrapper'>
-                        { (slug !== 'calendar') && <InternalLink to='/calendar' icon='📅' text='Heute' /> }
-                        { (slug !== 'data') && <InternalLink to='/data' icon='📚' text='Datenbank' /> }
+                        { (slug !== 'calendar') && <InternalLink to='/?app=calendar' icon='📅' text='Heute' /> }
+                        { (slug !== 'data') && <InternalLink to='/?app=data' icon='📚' text='Datenbank' /> }
                     </div>
                 </div>
-                <div className='app-settings container-fluid'>
+                <div className='settings-bar-content app-settings container-fluid'>
                     { children }
                 </div>
             </div>
