@@ -44,7 +44,7 @@ export default class Panel extends Component {
                         { collapsed ? '🔎' : '...' }
                     </span>
                 </header>
-                <main className='panel-body row' style={{ background: colors.body }}>
+                <main className='panel-body row' style={{ background: '#03071e' }}>
                     { children }
                     { !collapsed && animals().map((animal) => <Animal key={++index} animal={animal} colors={colors} />) }
                 </main>

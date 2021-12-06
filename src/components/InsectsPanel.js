@@ -1,10 +1,10 @@
 import Panel from './Panel'
 
-const InsectsPanel = ({ animals, month, hour }) => {
+const InsectsPanel = ({ fetch }) => {
     return (
         <Panel id='insects' text='Insekten' icon='🐛'
             colors={{ header: '#386641', body: '#6a994e', text: '#f1faee'}}
-            animals={() => animals.get('insekten', month, hour)}>
+            animals={() => fetch()}>
         </Panel>
     );
 }

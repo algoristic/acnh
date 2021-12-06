@@ -2,7 +2,6 @@
     display: none;
 }
 .settings-bar-wrapper {
-    background: #03071e;
     color: #f1faee;
 }
 .settings-bar {
@@ -20,7 +19,6 @@
 }
 .settings-bar .menu-toggle {
     cursor: pointer;
-    background: rgba(0, 0, 0, 0);
     border-radius: var(--panel-border-radius);
     padding: .25rem .5rem;
     font-weight: bold;
@@ -28,11 +26,23 @@
     border-width: var(--default-border-width);
     border-color: rgba(255, 255, 255, .25);
 }
+.settings-bar-wrapper a {
+    text-decoration: none;
+    color: inherit;
+}
 .settings-bar-wrapper .settings-bar-content {
     display: flex;
     justify-content: flex-end;
     flex-direction: column;
-    padding-bottom: .5rem;
     padding-top: .75rem;
-    border-top: var(--default-border-width) solid rgba(255, 255, 255, 0.33);
+}
+.settings-bar-wrapper .settings-bar-content .link-wrapper {
+    padding: .33rem 0;
+}
+.settings-bar-wrapper .app-settings {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    padding-top: .33rem;
+    padding-bottom: .33rem;
 }

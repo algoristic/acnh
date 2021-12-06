@@ -1,5 +1,6 @@
 import { Component } from 'react'
 
+
 import Hemisphere from '../context/Hemisphere'
 import Update from '../context/Update'
 
@@ -13,9 +14,7 @@ import MarineLifePanel from './MarineLifePanel'
 import RemainingAnimalsPanel from './RemainingAnimalsPanel'
 import SettingsBar from './SettingsBar'
 
-import './App.css'
-
-export default class App extends Component {
+class Data extends Component {
     constructor(props) {
         super(props);
         this.storage = new PersistentStorage();
@@ -85,9 +84,7 @@ export default class App extends Component {
 
     render() {
         const { hemisphere, animalService, dateTimeService, sort } = this.state;
-        const { day, month, hour } = dateTimeService;
-        const monthName = dateTimeService.getMonthName();
-        const activeText = ( <span>{ day }. { monthName } 📅 { hour } Uhr</span> )
+        const { month, hour } = dateTimeService;
         return (
             <div className="app bootstrap-wrapper">
                 <Hemisphere.Provider value={{ hemisphere: hemisphere, change: this.setHemisphere }}>
@@ -97,17 +94,15 @@ export default class App extends Component {
                             setSortOrder: this.setSortOrder,
                             sort: sort
                         }}>
-                        <SettingsBar dateTime={dateTimeService} active={{ slug: 'calendar', text: activeText }} />
+                        <SettingsBar dateTime={dateTimeService} active={{ slug: 'data', text: 'Datenbank 📚 Alle Tiere' }} />
                     </Update.Provider>
-                    <InsectsPanel animals={animalService} fetch={() => animalService.get('insekten', month, hour)} />
-                    <FishPanel animals={animalService} fetch={() => animalService.get('fische', month, hour)} />
-                    <MarineLifePanel animals={animalService} fetch={() => animalService.get('meerestiere', month, hour)} />
-                    <RemainingAnimalsPanel animals={animalService}
-                        month={dateTimeService.month}
-                        hour={dateTimeService.hour}>
-                    </RemainingAnimalsPanel>
+                    <InsectsPanel animals={animalService} fetch={() => animalService.getAll('insekten')} />
+                    <FishPanel animals={animalService} fetch={() => animalService.getAll('fische')} />
+                    <MarineLifePanel animals={animalService} fetch={() => animalService.getAll('meerestiere')} />
                 </Hemisphere.Provider>
             </div>
         );
     }
 }
+
+export default Data;

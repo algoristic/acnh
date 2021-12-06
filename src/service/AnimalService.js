@@ -37,6 +37,12 @@ class AnimalService {
         this.sort = sort;
     }
 
+    getAll(domain) {
+        return Object.keys(data.animals)
+            .map(slug => data.animals[slug])
+            .sort(sort[this.sort.property][this.sort.order]);
+    }
+
     get(domain, month, hour) {
         return data[this.hemisphere][month][domain]
             .map(slug => data.animals[slug])
