@@ -46,7 +46,6 @@ class AnimalService {
 
     getNext(domains, month, hour) {
         const monthData = data[this.hemisphere][month];
-        const { insekten, fische, meerestiere } = monthData;
         const all = [].concat.apply([],
             Object.keys(monthData)
                 .filter(domain => domains.includes(domain))
