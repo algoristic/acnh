@@ -9,7 +9,8 @@ class RemainingAnimalsPanel extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            active: ['insekten', 'fische', 'meerestiere']
+            active: [],
+            initialized: true
         };
 
         this.toggle = this.toggle.bind(this);
@@ -20,20 +21,31 @@ class RemainingAnimalsPanel extends Component {
         if(active.includes(domain)) {
             active = active.filter(val => val !== domain);
         } else {
+            active = [];
             active.push(domain);
         }
-        this.setState({ active: active });
+        let initialized = (active.length === 0);
+        this.setState({
+            active: active,
+            initialized: initialized
+        });
     }
 
     render() {
         const { animals, month, hour } = this.props;
-        const { active } = this.state;
+        const { active, initialized } = this.state;
+        let activeDomains;
+        if(initialized) {
+            activeDomains = ['insekten', 'fische', 'meerestiere'];
+        } else {
+            activeDomains = active;
+        }
         return (
             <Panel id='remaining'
                 text={ <i style={{ color: 'grey' }}>Noch nicht aktiv</i> }
                 icon='🕘'
                 colors={{ header: '#343a40', body: '#6c757d', text: '#f1faee'}}
-                animals={() => animals.getNext(active, month, hour)}>
+                animals={() => animals.getNext(activeDomains, month, hour)}>
                 <div className='select-domain col-12 col-md-6 col-lg-4'>
                     <RemainingDomain color='#386641'
                         active={active.includes('insekten')} text='🐛'
