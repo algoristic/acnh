@@ -11,7 +11,6 @@ import PersistentStorage from '../service/PersistentStorage'
 import FishPanel from './FishPanel'
 import InsectsPanel from './InsectsPanel'
 import MarineLifePanel from './MarineLifePanel'
-import RemainingAnimalsPanel from './RemainingAnimalsPanel'
 import SettingsBar from './SettingsBar'
 
 class Data extends Component {
@@ -84,7 +83,6 @@ class Data extends Component {
 
     render() {
         const { hemisphere, animalService, dateTimeService, sort } = this.state;
-        const { month, hour } = dateTimeService;
         return (
             <div className="app bootstrap-wrapper">
                 <Hemisphere.Provider value={{ hemisphere: hemisphere, change: this.setHemisphere }}>

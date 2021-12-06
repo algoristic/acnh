@@ -31,8 +31,7 @@ class AppSettingsBar extends Component {
         } else {
             button = <Toggle click={this.toggle} icon={'⨉'} />;
         }
-        const month = this.props.dateTime.getMonthName();
-        const { active:{ slug, text }, children, dateTime:{day, hour} } = this.props;
+        const { active:{ slug, text }, children } = this.props;
         return (
             <div className={'settings-bar-wrapper' + (collapsed ? ' settings-collapse' : '')}>
                 <div className='settings-bar container-fluid'>
