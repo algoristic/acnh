@@ -38,8 +38,12 @@ class AnimalService {
     }
 
     getAll(domain) {
-        return Object.keys(data.animals)
-            .map(slug => data.animals[slug])
+        var list = [...Array(12).keys()]
+            .map(i => ++i)
+            .map(i => data[this.hemisphere][i][domain])
+            .flat();
+        list = [...new Set(list)];
+        return list.map(slug => data.animals[slug])
             .sort(sort[this.sort.property][this.sort.order]);
     }
 
