@@ -6,7 +6,7 @@ import Toggle from './Toggle'
 
 const SettingsBar = ({ active, dateTime }) => {
     return (
-        <AppSettingsBar dateTime={dateTime} active={active}>
+        <AppSettingsBar active={active}>
             <Hemisphere.Consumer>
             {({ hemisphere, change }) => {
                 const north = 'northernHemisphere';

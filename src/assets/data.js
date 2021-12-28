@@ -1,4 +1,4 @@
-{
+export default {
   "northernHemisphere": {
     "11": {
       "meerestiere": [
@@ -9613,4 +9613,4 @@
       "slug": "kalmar"
     }
   }
-}
+};

@@ -46,6 +46,7 @@ class AppSettingsBar extends Component {
                 <div className='settings-bar-content container-fluid'>
                     <div className='settings-wrapper link-wrapper'>
                         { (slug !== 'calendar') && <InternalLink to='/?app=calendar' icon='📅' text='Heute' /> }
+                        { (slug !== 'inventory') && <InternalLink to='/?app=inventory' icon='📦' text='Inventar' /> }
                         { (slug !== 'data') && <InternalLink to='/?app=data' icon='📚' text='Datenbank' /> }
                     </div>
                 </div>

@@ -1,8 +1,10 @@
 import App from './components/App';
 import Data from './components/Data';
+import Inventory from './components/Inventory';
 
 const apps = {
     'calendar': <App/>,
+    'inventory': <Inventory/>,
     'data': <Data/>
 };
 const def = <App/>;
