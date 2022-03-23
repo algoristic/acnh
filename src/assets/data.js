@@ -1,4 +1,4 @@
-{
+export default {
   "northernHemisphere": {
     "11": {
       "meerestiere": [
@@ -2649,6 +2649,7 @@
   "animals": {
     "110": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Klein",
       "name": "Kampffisch",
       "active": [
         0,
@@ -2684,6 +2685,7 @@
     },
     "111": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Karausche",
       "active": [
         1,
@@ -2719,6 +2721,7 @@
     },
     "112": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Groß",
       "name": "Karpfen",
       "active": [
         1,
@@ -2754,6 +2757,7 @@
     },
     "113": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Groß",
       "name": "Katzenwels",
       "active": [
         0,
@@ -2789,6 +2793,7 @@
     },
     "114": {
       "northernHemisphere": "März bis Juli",
+      "size": "Winzig",
       "name": "Kaulquappe",
       "active": [
         1,
@@ -2824,6 +2829,7 @@
     },
     "115": {
       "northernHemisphere": "April bis August",
+      "size": "Winzig",
       "name": "Killifisch",
       "active": [
         1,
@@ -2859,6 +2865,7 @@
     },
     "116": {
       "northernHemisphere": "Oktober bis April",
+      "size": "Mittel",
       "name": "Kliesche",
       "active": [
         1,
@@ -2894,6 +2901,7 @@
     },
     "117": {
       "northernHemisphere": "Juni bis September",
+      "size": "Riesig",
       "name": "Knochenhecht",
       "active": [
         1,
@@ -2929,6 +2937,7 @@
     },
     "118": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Groß",
       "name": "Koi-Karpfen",
       "active": [
         1,
@@ -2964,6 +2973,7 @@
     },
     "119": {
       "northernHemisphere": "September",
+      "size": "Riesig",
       "name": "Königslachs",
       "active": [
         1,
@@ -3349,6 +3359,7 @@
     },
     "120": {
       "northernHemisphere": "November bis Februar",
+      "size": "Mittel",
       "name": "Kugelfisch",
       "active": [
         1,
@@ -3384,6 +3395,7 @@
     },
     "121": {
       "northernHemisphere": "September",
+      "size": "Groß",
       "name": "Lachs",
       "active": [
         1,
@@ -3454,6 +3466,7 @@
     },
     "122": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß",
       "name": "Lachssalmler",
       "active": [
         0,
@@ -3524,6 +3537,7 @@
     },
     "123": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Makrele",
       "active": [
         1,
@@ -3594,6 +3608,7 @@
     },
     "124": {
       "northernHemisphere": "November bis April und Juli bis September",
+      "size": "Riesig",
       "name": "Marlin",
       "active": [
         1,
@@ -3664,6 +3679,7 @@
     },
     "125": {
       "northernHemisphere": "März bis Juni und September bis November",
+      "size": "Mittel",
       "name": "Masulachs",
       "active": [
         1,
@@ -3734,6 +3750,7 @@
     },
     "126": {
       "northernHemisphere": "Juli bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Mondfisch",
       "active": [
         0,
@@ -3804,6 +3821,7 @@
     },
     "127": {
       "northernHemisphere": "August bis Oktober",
+      "size": "Schmal",
       "name": "Muräne",
       "active": [
         1,
@@ -3874,6 +3892,7 @@
     },
     "128": {
       "northernHemisphere": "Juli bis August",
+      "size": "Riesig",
       "name": "Napoleonfisch",
       "active": [
         0,
@@ -3944,6 +3963,7 @@
     },
     "129": {
       "northernHemisphere": "Juni bis Oktober",
+      "size": "Schmal",
       "name": "Nasenmuräne",
       "active": [
         1,
@@ -4364,6 +4384,7 @@
     },
     "130": {
       "northernHemisphere": "April bis November",
+      "size": "Winzig",
       "name": "Neonsalmler",
       "active": [
         0,
@@ -4399,6 +4420,7 @@
     },
     "131": {
       "northernHemisphere": "April bis September",
+      "size": "Klein",
       "name": "Paletten-Doktorfisch",
       "active": [
         1,
@@ -4434,6 +4456,7 @@
     },
     "132": {
       "northernHemisphere": "Juni bis September",
+      "size": "Klein",
       "name": "Piranha",
       "active": [
         1,
@@ -4469,6 +4492,7 @@
     },
     "133": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Riesig",
       "name": "Quastenflosser",
       "active": [
         1,
@@ -4504,6 +4528,7 @@
     },
     "134": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Ranchu",
       "active": [
         0,
@@ -4539,6 +4564,7 @@
     },
     "135": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Winzig",
       "name": "Regenbogenfisch",
       "active": [
         0,
@@ -4574,6 +4600,7 @@
     },
     "136": {
       "northernHemisphere": "Dezember bis Mai",
+      "size": "Riesig",
       "name": "Riemenfisch",
       "active": [
         1,
@@ -4609,6 +4636,7 @@
     },
     "137": {
       "northernHemisphere": "August bis November",
+      "size": "Sehr groß",
       "name": "Rochen",
       "active": [
         0,
@@ -4644,6 +4672,7 @@
     },
     "138": {
       "northernHemisphere": "April bis November",
+      "size": "Mittel",
       "name": "Rotfeuerfisch",
       "active": [
         1,
@@ -4679,6 +4708,7 @@
     },
     "139": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Sägehai",
       "active": [
         1,
@@ -5064,6 +5094,7 @@
     },
     "140": {
       "northernHemisphere": "März bis Juni und September bis November",
+      "size": "Mittel",
       "name": "Saibling",
       "active": [
         1,
@@ -5099,6 +5130,7 @@
     },
     "141": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Sardelle",
       "active": [
         0,
@@ -5134,6 +5166,7 @@
     },
     "142": {
       "northernHemisphere": "Mai bis September",
+      "size": "Winzig",
       "name": "Saugbarbe",
       "active": [
         0,
@@ -5169,6 +5202,7 @@
     },
     "143": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Schiffshalter",
       "active": [
         1,
@@ -5204,6 +5238,7 @@
     },
     "144": {
       "northernHemisphere": "Juni bis August",
+      "size": "Sehr groß",
       "name": "Schlangenkopf",
       "active": [
         0,
@@ -5239,6 +5274,7 @@
     },
     "145": {
       "northernHemisphere": "März bis November",
+      "size": "Mittel",
       "name": "Schnabelbarsch",
       "active": [
         1,
@@ -5274,6 +5310,7 @@
     },
     "146": {
       "northernHemisphere": "April bis Oktober",
+      "size": "Groß",
       "name": "Schnappschildkröte",
       "active": [
         1,
@@ -5309,6 +5346,7 @@
     },
     "147": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Sehr groß",
       "name": "Seebarsch",
       "active": [
         1,
@@ -5344,6 +5382,7 @@
     },
     "148": {
       "northernHemisphere": "Dezember bis März",
+      "size": "Winzig",
       "name": "See-Engel",
       "active": [
         1,
@@ -5379,6 +5418,7 @@
     },
     "149": {
       "northernHemisphere": "April bis November",
+      "size": "Winzig",
       "name": "Seepferdchen",
       "active": [
         1,
@@ -5764,6 +5804,7 @@
     },
     "150": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Klein",
       "name": "Skalar",
       "active": [
         1,
@@ -5799,6 +5840,7 @@
     },
     "151": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Sonnenbarsch",
       "active": [
         0,
@@ -5834,6 +5876,7 @@
     },
     "152": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Sehr groß",
       "name": "Stachelmakrele",
       "active": [
         1,
@@ -5869,6 +5912,7 @@
     },
     "153": {
       "northernHemisphere": "Dezember bis Februar",
+      "size": "Klein",
       "name": "Stint",
       "active": [
         1,
@@ -5904,6 +5948,7 @@
     },
     "154": {
       "northernHemisphere": "September bis März",
+      "size": "Riesig",
       "name": "Stör",
       "active": [
         1,
@@ -5939,6 +5984,7 @@
     },
     "155": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Winzig",
       "name": "Teleskopauge",
       "active": [
         0,
@@ -5974,6 +6020,7 @@
     },
     "156": {
       "northernHemisphere": "November bis April",
+      "size": "Riesig",
       "name": "Thunfisch",
       "active": [
         1,
@@ -6009,6 +6056,7 @@
     },
     "157": {
       "northernHemisphere": "Juni bis Oktober",
+      "size": "Mittel",
       "name": "Tilapia",
       "active": [
         1,
@@ -6044,6 +6092,7 @@
     },
     "158": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Walhai",
       "active": [
         1,
@@ -6079,6 +6128,7 @@
     },
     "159": {
       "northernHemisphere": "August bis September",
+      "size": "Mittel",
       "name": "Weichschildkröte",
       "active": [
         1,
@@ -6464,6 +6514,7 @@
     },
     "160": {
       "northernHemisphere": "September bis November",
+      "size": "Klein",
       "name": "Wollhandkrabbe",
       "active": [
         1,
@@ -8179,6 +8230,7 @@
     },
     "81": {
       "northernHemisphere": "April bis November",
+      "size": "Winzig",
       "name": "Anemonenfisch",
       "active": [
         1,
@@ -8214,6 +8266,7 @@
     },
     "82": {
       "northernHemisphere": "November bis März",
+      "size": "Groß",
       "name": "Anglerfisch",
       "active": [
         1,
@@ -8249,6 +8302,7 @@
     },
     "83": {
       "northernHemisphere": "Juni bis September",
+      "size": "Riesig",
       "name": "Arapaima",
       "active": [
         1,
@@ -8284,6 +8338,7 @@
     },
     "84": {
       "northernHemisphere": "Juni bis September",
+      "size": "Groß",
       "name": "Arowana",
       "active": [
         1,
@@ -8319,6 +8374,7 @@
     },
     "85": {
       "northernHemisphere": "Juli bis September",
+      "size": "Mittel",
       "name": "Ayu",
       "active": [
         1,
@@ -8354,6 +8410,7 @@
     },
     "86": {
       "northernHemisphere": "März bis Mai",
+      "size": "Klein",
       "name": "Bachschmerle",
       "active": [
         1,
@@ -8389,6 +8446,7 @@
     },
     "87": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Groß",
       "name": "Barsch",
       "active": [
         1,
@@ -8424,6 +8482,7 @@
     },
     "88": {
       "northernHemisphere": "November bis März",
+      "size": "Winzig",
       "name": "Bitterling",
       "active": [
         1,
@@ -8459,6 +8518,7 @@
     },
     "89": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Winzig",
       "name": "Döbel",
       "active": [
         0,
@@ -8844,6 +8904,7 @@
     },
     "90": {
       "northernHemisphere": "April bis September",
+      "size": "Klein",
       "name": "Falterfisch",
       "active": [
         1,
@@ -8879,6 +8940,7 @@
     },
     "91": {
       "northernHemisphere": "Juni bis September",
+      "size": "Groß",
       "name": "Flösselhecht",
       "active": [
         1,
@@ -8914,6 +8976,7 @@
     },
     "92": {
       "northernHemisphere": "Oktober bis April",
+      "size": "Sehr groß",
       "name": "Flunder",
       "active": [
         1,
@@ -8949,6 +9012,7 @@
     },
     "93": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Mittel",
       "name": "Flussbarsch",
       "active": [
         1,
@@ -8984,6 +9048,7 @@
     },
     "94": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Flussgrundel",
       "active": [
         1,
@@ -9019,6 +9084,7 @@
     },
     "95": {
       "northernHemisphere": "April bis September",
+      "size": "Klein",
       "name": "Flusskrebs",
       "active": [
         1,
@@ -9054,6 +9120,7 @@
     },
     "96": {
       "northernHemisphere": "Mai bis August",
+      "size": "Klein",
       "name": "Frosch",
       "active": [
         1,
@@ -9089,6 +9156,7 @@
     },
     "97": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Klein",
       "name": "Glaskopffisch",
       "active": [
         1,
@@ -9124,6 +9192,7 @@
     },
     "98": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Winzig",
       "name": "Goldfisch",
       "active": [
         1,
@@ -9159,6 +9228,7 @@
     },
     "99": {
       "northernHemisphere": "März bis Mai und September bis November",
+      "size": "Mittel",
       "name": "Goldforelle",
       "active": [
         1,
@@ -9264,6 +9334,7 @@
     },
     "100": {
       "northernHemisphere": "Mai bis Oktober",
+      "size": "Sehr groß",
       "name": "Goldmakrele",
       "active": [
         1,
@@ -9299,6 +9370,7 @@
     },
     "101": {
       "northernHemisphere": "April bis November",
+      "size": "Winzig",
       "name": "Guppy",
       "active": [
         0,
@@ -9334,6 +9406,7 @@
     },
     "102": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Hai",
       "active": [
         1,
@@ -9369,6 +9442,7 @@
     },
     "103": {
       "northernHemisphere": "Juni bis September",
+      "size": "Sehr groß mit Rückenflosse",
       "name": "Hammerhai",
       "active": [
         1,
@@ -9404,6 +9478,7 @@
     },
     "104": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Mittel",
       "name": "Hasel",
       "active": [
         1,
@@ -9439,6 +9514,7 @@
     },
     "105": {
       "northernHemisphere": "September bis Dezember",
+      "size": "Sehr groß",
       "name": "Hecht",
       "active": [
         1,
@@ -9474,6 +9550,7 @@
     },
     "106": {
       "northernHemisphere": "Dezember bis März",
+      "size": "Sehr groß",
       "name": "Huchen",
       "active": [
         1,
@@ -9509,6 +9586,7 @@
     },
     "107": {
       "northernHemisphere": "Juli bis September",
+      "size": "Mittel",
       "name": "Igelfisch",
       "active": [
         1,
@@ -9544,6 +9622,7 @@
     },
     "108": {
       "northernHemisphere": "das ganze Jahr",
+      "size": "Groß",
       "name": "Kaiserschnapper",
       "active": [
         1,
@@ -9579,6 +9658,7 @@
     },
     "109": {
       "northernHemisphere": "Dezember bis August",
+      "size": "Mittel",
       "name": "Kalmar",
       "active": [
         1,
@@ -9613,4 +9693,4 @@
       "slug": "kalmar"
     }
   }
-}
+};

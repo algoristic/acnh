@@ -12,6 +12,7 @@ import InsectsPanel from './InsectsPanel'
 import MarineLifePanel from './MarineLifePanel'
 import RemainingAnimalsPanel from './RemainingAnimalsPanel'
 import SettingsBar from './SettingsBar'
+import InfoWrapper from './InfoWrapper'
 
 import './App.css'
 
@@ -89,7 +90,7 @@ export default class App extends Component {
         const monthName = dateTimeService.getMonthName();
         const activeText = ( <span>{ day }. { monthName } 📅 { hour } Uhr</span> )
         return (
-            <div className="app bootstrap-wrapper">
+            <InfoWrapper>
                 <Hemisphere.Provider value={{ hemisphere: hemisphere, change: this.setHemisphere }}>
                     <Update.Provider value={{
                             update: this.refresh,
@@ -107,7 +108,7 @@ export default class App extends Component {
                         hour={dateTimeService.hour}>
                     </RemainingAnimalsPanel>
                 </Hemisphere.Provider>
-            </div>
+            </InfoWrapper>
         );
     }
 }

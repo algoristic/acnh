@@ -1,6 +1,5 @@
 import { Component } from 'react'
 
-
 import Hemisphere from '../context/Hemisphere'
 import Update from '../context/Update'
 
@@ -12,6 +11,7 @@ import FishPanel from './FishPanel'
 import InsectsPanel from './InsectsPanel'
 import MarineLifePanel from './MarineLifePanel'
 import SettingsBar from './SettingsBar'
+import InfoWrapper from './InfoWrapper'
 
 class Data extends Component {
     constructor(props) {
@@ -84,7 +84,7 @@ class Data extends Component {
     render() {
         const { hemisphere, animalService, dateTimeService, sort } = this.state;
         return (
-            <div className="app bootstrap-wrapper">
+            <InfoWrapper>
                 <Hemisphere.Provider value={{ hemisphere: hemisphere, change: this.setHemisphere }}>
                     <Update.Provider value={{
                             update: this.refresh,
@@ -98,7 +98,7 @@ class Data extends Component {
                     <FishPanel animals={animalService} fetch={() => animalService.getAll('fische')} />
                     <MarineLifePanel animals={animalService} fetch={() => animalService.getAll('meerestiere')} />
                 </Hemisphere.Provider>
-            </div>
+            </InfoWrapper>
         );
     }
 }
