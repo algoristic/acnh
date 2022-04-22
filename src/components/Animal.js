@@ -19,7 +19,7 @@ const Animal = ({ animal, colors:{ header } }) => {
                                     <span className='animal-value'>({animal.value}&nbsp;Sternis)</span>
                                 </header>
                                 <main className='animal-body'>
-                                    <img className='animal-image' src={`/img/${animal.slug}.png`} alt={animal.name} title={animal.name} />
+                                    <img className='animal-image' src={`./img/${animal.slug}.png`} alt={animal.name} title={animal.name} />
                                     <table>
                                         <tbody>
                                             <tr>
