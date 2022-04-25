@@ -18,7 +18,7 @@ const SizeInfo = ({ size, toggle }) => {
                         <div key={_size} className={`example-size ${_size === size ? 'marked': ''}`}>
                             <div className='size-text'>{ _size }</div>
                             <div className='size-img-wrapper' >
-                                <img alt={ _size } src={`/img/sizes/${_size}.png`} className='size-img' />
+                                <img alt={ _size } src={`./img/sizes/${_size}.png`} className='size-img' />
                             </div>
                         </div>
                     );
